@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1de2bd7d-835f-4816-b128-8fc58ada7c47/deploy-status)](https://app.netlify.com/sites/introdatascience/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a60484a5-49ef-4593-8579-caefac3f9bf1/deploy-status)](https://app.netlify.com/sites/introds-2020/deploys)
 
 # Introduction to Data Science
 
