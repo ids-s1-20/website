@@ -1,0 +1,61 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Timetable"
+  url = "#timetable"
+  weight = 20
+
+[[main]]
+  name = "Schedule"
+  url = "#schedule"
+  weight = 40
+
+[[main]]
+  name = "Syllabus"
+  url = "#syllabus"
+  weight = 50
+
+[[main]]
+  name = "Help"
+  url = "#help"
+  weight = 60
+
+[[main]]
+  name = "Project"
+  url = "#project"
+  weight = 70
+
+[[main]]
+  name = "Resources"
+  url = "#resources"
+  weight = 80
+  
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 90
+  
+[[main]]
+  name = "<i class='fab fa-github'></i>"
+  url = "https://github.com/ids-s1-20"
+  weight = 100
+
+[[main]]
+  name = "<i class='fab fa-r-project'></i>"
+  url = "https://rstudio.cloud"
+  weight = 110
+
+[[main]]
+  name = "<i class='ai ai-piazza'></i>"
+  url = "http://www.drps.ed.ac.uk/20-21/dpt/cxmath08077.htm"
+  weight = 120
+  menu_align_right = true
+
+[[main]]
+  name = "<i class='fas fa-university'></i>"
+  url = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4932155_1&course_id=_78830_1"
+  weight = 130
+  menu_align_right = true

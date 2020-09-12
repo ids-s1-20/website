@@ -1,0 +1,13 @@
+[build]
+  publish = "public"
+  command = "hugo --buildFuture"
+[context.production.environment]
+  HUGO_VERSION = "0.55.6"
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.74.3"
+# Branch deploy context: All deploys that are not from a pull/merge request
+# or from the production branch will inherit these settings.
+[context.branch-deploy]
+  command = "hugo --buildFuture"
