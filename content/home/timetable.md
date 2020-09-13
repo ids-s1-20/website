@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Timetable"
-subtitle = "Lectures on Mondays and Wednesdays, workshops on Tuesdays. Access official course information [here](http://www.drps.ed.ac.uk/19-20/dpt/cxmath08077.htm)."
+subtitle = "Videos released on Mondays, code alongs on Thursdays, workshops on Fridays. Access official course information [here](http://www.drps.ed.ac.uk/20-21/dpt/cxmath08077.htm)."
 
 # Showcase important course info at a glance.
 # 
@@ -15,21 +15,21 @@ subtitle = "Lectures on Mondays and Wednesdays, workshops on Tuesdays. Access of
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "university"
-  icon_pack = "fas"
+  icon = "youtube"
+  icon_pack = "fab"
   name = "Monday"
-  description = "11:10 - 12:00, Appleton Tower LT1"  
+  description = "Videos released"  
+  
+[[feature]]
+  icon = "keyboard"
+  icon_pack = "fas"
+  name = "Thursday"
+  description = "Code along sessions - time TBA"
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Tuesday"
-  description = "12:10 - 14:00, Murchison House LG12"
-  
-[[feature]]
-  icon = "university"
-  icon_pack = "fas"
-  name = "Wednesday"
-  description = "11:10 - 12:00, Robson Building LT"  
+  name = "Friday"
+  description = "Workshops - 10:00-11:00, 11:10-12:10, or 12:10-13:10"  
 
 +++
