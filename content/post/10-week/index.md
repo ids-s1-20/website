@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-23T00:00:00Z"
 projects: []
-subtitle: 'Predicting categorical data and quantifying uncertainty :crystal_ball:'
-summary: Predicting categorical data and quantifying uncertainty
-title: 'Week 10 - Logistic regression and quantifying uncertainty'
+subtitle: 'Peforming model validation and prediction :crystal_ball:'
+summary: Peforming model validation and prediction.
+title: 'Week 10 - Prediction and model validation'
 ---
 
 ### Videos

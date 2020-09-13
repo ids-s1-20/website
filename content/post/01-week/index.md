@@ -11,8 +11,8 @@ image:
   preview_only: true
 lastmod: "2020-09-21T00:00:00Z"
 projects: []
-subtitle: 'Get acquainted with the course, the technology, and the skills you will acquire throughout the semester :toolbox:'
-summary: Get acquainted with the course, the technology, and the skills you will acquire throughout the semester.
+subtitle: 'Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester :toolbox:'
+summary: Get acquainted with the course, the technology, the workflow, and the skills you will acquire throughout the semester.
 title: 'Week 1 - Welcome to IDS'
 ---
 

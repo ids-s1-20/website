@@ -5,15 +5,15 @@ date: "2020-11-30T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/riYdn15o96U)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/A-NVHPka9Rk)'
   focal_point: ""
   placement: 2
   preview_only: true
 lastmod: "2020-11-30T00:00:00Z"
 projects: []
-subtitle: 'Data science ethics and looking forward :eyes:'
-summary: Data science ethics and looking forward
-title: 'Week 11 - Wrap up'
+subtitle: 'Quantifying uncertainty via bootstrapping and looking beyond IDS :eyes:'
+summary: Quantifying uncertainty via bootstrapping and looking beyond IDS.
+title: 'Week 11 - Quantifying uncertainty and looking beyond'
 ---
 
 ### Videos

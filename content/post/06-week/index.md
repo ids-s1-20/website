@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-10-26T00:00:00Z"
 projects: []
-subtitle: 'Web scraping, functions, and iteration :spider_web:'
-summary: Web scraping, functions, and iteration
-title: 'Week 6 - Web scraping and iteration'
+subtitle: 'Harvesting data from the web, writing functions, and iteration :spider_web:'
+summary: Harvesting data from the web, writing functions, and iteration.
+title: 'Week 6 - Web scraping and programming '
 ---
 
 ### Videos

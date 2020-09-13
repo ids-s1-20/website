@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-10-12T00:00:00Z"
 projects: []
-subtitle: 'Take a sad plot and make it better :chart_with_downwards_trend:'
-summary: Take a sad plot and make it better.
-title: 'Week 4 - Diving deeper into visualization'
+subtitle: 'Importing and recoding data and joining data from multiple sources :chart_with_downwards_trend:'
+summary: Importing and recoding data and joining data from multiple sources.
+title: 'Week 4 - Importing, joining, and recoding data'
 ---
 
 ### Videos

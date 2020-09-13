@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-10-05T00:00:00Z"
 projects: []
-subtitle: 'Wrangle, rectangle, and transform data :wrench:'
-summary: Wrangle, rectangle, and transform data.
-title: 'Week 3 - Data wrangling'
+subtitle: 'Data wrangling, tidying, and reshaping :wrench:'
+summary: Data wrangling, tidying, and reshaping.
+title: 'Week 3 - Wrangling and tidying data'
 ---
 
 ### Videos

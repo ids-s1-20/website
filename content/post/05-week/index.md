@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-10-19T00:00:00Z"
 projects: []
-subtitle: 'Extracting meaning from data and effective communication of results :speech_bubble:'
-summary: Extracting meaning from data and effective communication of results
-title: 'Week 5 - Extracting meaning from data'
+subtitle: 'Tips for effective data visualization, communication of results, and collaboration :speech_bubble:'
+summary: Tips for effective data visualization, communication of results, and collaboration.
+title: 'Week 5 - Communicating data science results effectively'
 ---
 
 ### Videos

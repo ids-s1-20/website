@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-09T00:00:00Z"
 projects: []
-subtitle: 'Multiple and non-linear regression :chart_with_upwards_trend:'
-summary: Multiple and non-linear regression
-title: 'Week 8 - Extending modeling'
+subtitle: 'Linear models for predicting numerical data from single and multiple variables :chart_with_upwards_trend:'
+summary: Linear models for predicting numerical data from single and multiple variables.
+title: 'Week 8 - Modeling data'
 ---
 
 ### Videos

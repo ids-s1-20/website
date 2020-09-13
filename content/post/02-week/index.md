@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-09-28T00:00:00Z"
 projects: []
-subtitle: 'Visaualize data, interpret visualizations :bar_chart:'
-summary: Visaualize data, interpret visualizations.
-title: 'Week 2 - Data visualization'
+subtitle: 'Data visualization and interpretation of graphical information :bar_chart:'
+summary: Data visualization and interpretation of graphical information.
+title: 'Week 2 - Visualizing data'
 ---
 
 ### Videos

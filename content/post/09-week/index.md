@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-16T00:00:00Z"
 projects: []
-subtitle: 'Peforming model selection and validation :mag:'
-summary: Peforming model selection and validation selection
-title: 'Week 9 - Model selection and validation'
+subtitle: 'Logistic regression for predicting categorical data and performing model selection :mag:'
+summary: Logistic regression for predicting categorical data and performing model selection.
+title: 'Week 9 - Model selection and classification'
 ---
 
 ### Videos

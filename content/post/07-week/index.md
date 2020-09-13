@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-02T00:00:00Z"
 projects: []
-subtitle: 'Modeling relationships with simple linear regression :dango:'
-summary: Modeling relationships with simple linear regression
-title: 'Week 7 - The language of models'
+subtitle: 'Misrepresentation of findings, data privacy, and algorithmic bias :dango:'
+summary: Misrepresentation of findings, data privacy, and algorithmic bias
+title: 'Week 7 - Data science ethics'
 ---
 
 ### Videos
