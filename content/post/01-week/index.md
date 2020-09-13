@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-09-16T00:00:00Z"
+date: "2020-09-21T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,24 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-09-16T00:00:00Z"
+lastmod: "2020-09-21T00:00:00Z"
 projects: []
 subtitle: 'Get acquainted with the course, the technology, and the skills you will acquire throughout the semester :toolbox:'
 summary: Get acquainted with the course, the technology, and the skills you will acquire throughout the semester.
 title: 'Week 1 - Welcome to IDS'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+This week's assignments will not be marked, they are provided as practice and to help you get acquainted with the material without the pressure of grades. Formative feedback will be provided. Even though there is no penalty for not completing them, you are urged to complete them so that you are prepared for next week and beyond.
+
+<!--
 
 ### Schedule
 
@@ -46,6 +58,4 @@ title: 'Week 1 - Welcome to IDS'
 | :speech_balloon:  | Sign up: [Piazza](https://piazza.com/ed.ac.uk/fall2019/math08077) | |
 | :page_facing_up:  | Read: [Syllabus](/#syllabus) | |
 
-### Note
-
-This week's assignments will not be marked, they are provided as practice and to help you get acquainted with the material without the pressure of grades. Formative feedback will be provided. Even though there is no penalty for not completing them, you are urged to complete them so that you are prepared for next week and beyond.
+-->

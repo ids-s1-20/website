@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-11-04T00:00:00Z"
+date: "2020-11-09T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-11-04T00:00:00Z"
+lastmod: "2020-11-09T00:00:00Z"
 projects: []
 subtitle: 'Multiple and non-linear regression :chart_with_upwards_trend:'
 summary: Multiple and non-linear regression
 title: 'Week 8 - Extending modeling'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -31,3 +41,5 @@ title: 'Week 8 - Extending modeling'
 | <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
 |----:|---|---|
 | :open_book: | OS: [Chp 9 - Multiple regression](https://www.openintro.org/stat/textbook.php?stat_book=os), Sections 9.1 - 9.4 | **Required** |
+
+-->

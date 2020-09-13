@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-10-21T00:00:00Z"
+date: "2020-10-26T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-10-21T00:00:00Z"
+lastmod: "2020-10-26T00:00:00Z"
 projects: []
 subtitle: 'Web scraping, functions, and iteration :spider_web:'
 summary: Web scraping, functions, and iteration
 title: 'Week 6 - Web scraping and iteration'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -41,3 +51,5 @@ title: 'Week 6 - Web scraping and iteration'
 | <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
 |----:|---|---|
 | :radio_button:  | Peer evaluation 01 | **Due:** Fri, 25 Oct, 17:00 |
+
+-->

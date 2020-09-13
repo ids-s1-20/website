@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-11-11T00:00:00Z"
+date: "2020-11-16T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-11-11T00:00:00Z"
+lastmod: "2020-11-16T00:00:00Z"
 projects: []
 subtitle: 'Peforming model selection and validation :mag:'
 summary: Peforming model selection and validation selection
 title: 'Week 9 - Model selection and validation'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -38,3 +48,5 @@ title: 'Week 9 - Model selection and validation'
 |----:|---|---|
 | :radio_button:  | Project proposal redo (optional) | **Due:** Mon, 11 Oct, 17:00 |
 | :radio_button:  | Peer evaluation 02 | **Due:** Tue, 12 Oct, 17:00 |
+
+-->

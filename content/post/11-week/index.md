@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-11-25T00:00:00Z"
+date: "2020-11-30T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-11-25T00:00:00Z"
+lastmod: "2020-11-30T00:00:00Z"
 projects: []
 subtitle: 'Data science ethics and looking forward :eyes:'
 summary: Data science ethics and looking forward
 title: 'Week 11 - Wrap up'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 | <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
 |---:|---|---|
@@ -36,3 +46,5 @@ title: 'Week 11 - Wrap up'
 |----:|---|---|
 | :film_projector:  | [Joy Buolamwini - How I’m fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms) | |
 | :film_projector:  | [Cathy O'Neil - The era of blind faith in big data must end](https://www.youtube.com/watch?v=_2u_eHHzRto) | |
+
+-->

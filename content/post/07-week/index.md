@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-10-28T00:00:00Z"
+date: "2020-11-02T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-10-28T00:00:00Z"
+lastmod: "2020-11-02T00:00:00Z"
 projects: []
 subtitle: 'Modeling relationships with simple linear regression :dango:'
 summary: Modeling relationships with simple linear regression
 title: 'Week 7 - The language of models'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -32,3 +42,4 @@ title: 'Week 7 - The language of models'
 |----:|---|---|
 | :open_book: | OS: [Chp 8 - Introduction to linear regression](https://www.openintro.org/stat/textbook.php?stat_book=os) | **Required** |
 
+-->

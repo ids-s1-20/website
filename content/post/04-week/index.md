@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-10-07T00:00:00Z"
+date: "2020-10-12T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-09-30T00:00:00Z"
+lastmod: "2020-10-12T00:00:00Z"
 projects: []
 subtitle: 'Take a sad plot and make it better :chart_with_downwards_trend:'
 summary: Take a sad plot and make it better.
 title: 'Week 4 - Diving deeper into visualization'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -44,5 +54,4 @@ title: 'Week 4 - Diving deeper into visualization'
 |----:|---|
 | :film_projector: | [Hans Rosling: 200 Years in 2 Minutes](https://www.youtube.com/embed/Z8t4k0Q8e8Y) |
 
-
-
+-->

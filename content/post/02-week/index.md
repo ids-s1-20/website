@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-09-23T00:00:00Z"
+date: "2020-09-28T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-09-23T00:00:00Z"
+lastmod: "2020-09-28T00:00:00Z"
 projects: []
 subtitle: 'Visaualize data, interpret visualizations :bar_chart:'
 summary: Visaualize data, interpret visualizations.
 title: 'Week 2 - Data visualization'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -36,3 +46,5 @@ title: 'Week 2 - Data visualization'
 | :page_facing_up: | [Make a plot](https://socviz.co/makeplot.html) | Optional |
 | :page_facing_up: | [Drowning in plastic - Visualising the world’s addiction to plastic bottles](https://graphics.reuters.com/ENVIRONMENT-PLASTIC/0100B275155/index.html) | Optional |
 |  :fountain_pen:  | [Sleep Schedule, From the Inconsistent Teenage Years to Retirement](https://flowingdata.com/2019/09/13/sleep-schedule-and-age/) | Optional
+
+-->

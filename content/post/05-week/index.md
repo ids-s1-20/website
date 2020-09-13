@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-date: "2019-10-14T00:00:00Z"
+date: "2020-10-19T00:00:00Z"
 draft: false
 featured: false
 image:
@@ -9,12 +9,22 @@ image:
   focal_point: ""
   placement: 2
   preview_only: true
-lastmod: "2019-10-14T00:00:00Z"
+lastmod: "2020-10-19T00:00:00Z"
 projects: []
 subtitle: 'Extracting meaning from data and effective communication of results :speech_bubble:'
 summary: Extracting meaning from data and effective communication of results
 title: 'Week 5 - Extracting meaning from data'
 ---
+
+### Videos
+
+### Tasks
+
+### Suggestions
+
+### Notes
+
+<!--
 
 ### Schedule
 
@@ -42,3 +52,4 @@ title: 'Week 5 - Extracting meaning from data'
 |----:|---|---|
 | :radio_button:  | [Mid-semester feedback (anonymous)](https://www.learn.ed.ac.uk/webapps/assessment/take/launchAssessment.jsp?course_id=_75012_1&content_id=_4369037_1&mode=cpview) | **Due:** Fri, 18 Oct, 17:00 |
 
+-->
