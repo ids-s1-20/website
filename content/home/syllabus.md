@@ -30,19 +30,35 @@ Cheating or plagiarising on assignments, lying about an illness or absence and o
 
 ### Communication
 
-I will regularly send course announcements via email and Learn, make sure to check one or the other of these daily. We will be using Piazza to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don't feel confortable posting of Piazza feel free to reach out via email.
+I will regularly send course announcements via email and Learn, make sure to check one or the other of these daily. We will be using Piazza and Teams to facilitate course communication, particularly around questions and answers. If you have a question outside of class or office hours, first check if it has already been asked on Piazza and if not post there. If you have a question or concern you don't feel comfortable posting of Piazza feel free to reach out via email.
 
 ### Professionalism
 
-Please refrain from texting or using your computer for anything other than coursework during class.
+Please refrain from using your computer for anything other than coursework during class.
 
 ## Course components
+
+### Pre-recorded videos
+
+[Add description]
+
+### Workshops
+
+[Add description]
+
+### Code along sessions
+
+[Add description]
+
+<!--
 
 ### Class
 
 Class time is designed to be as interactive as possible. My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. Programming is a skill that is best learned by doing, so as much as possible you will be working on a variety of tasks and activities throughout each class. Attendance will not be be used to determine your mark but you are expected to attend all lectures and meaningfully contribute to in-class exercises and homework assignments.
 
 Class sessions are recorded, and the recordings will be available on Learn after class. Think of the recordings not as a replacement for attending class, but as a supplement!
+
+-->
 
 ### Teams 
 
@@ -52,7 +68,7 @@ Students are expected to make use of the provided GitHub repository as their cen
 
 ### Homework
 
-Beyond the in class activities, you will be assigned weekly larger programming tasks throughout the semester. These assignments will be completed individually, and submitted as GitHub repositories. Homework with the lowest score for each student will be dropped.
+Beyond the in class activities, you will be assigned fortnightly larger programming tasks throughout the semester. These assignments will be completed individually, and submitted as GitHub repositories. Homework with the lowest score for each student will be dropped.
 
 ### Labs
 
@@ -87,7 +103,7 @@ Please review the official University and School policies  [here](https://teachi
 
 ### Regrade requests 
 
-Regrade requests must be made within one week of when the assignment is returned, and must be typed up, printed, and submitted in person to me. These will be honored if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted in person to me via email. These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
 
 ### Late work policy
 
