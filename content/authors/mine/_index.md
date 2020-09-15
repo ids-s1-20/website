@@ -17,7 +17,7 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/minebocek
-
+weight: 10
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
