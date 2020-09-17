@@ -30,6 +30,6 @@ subtitle = "Videos released on Mondays, code alongs on Thursdays, workshops on F
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Friday"
-  description = "Workshops - 10:00-11:00, 11:10-12:10, or 12:10-13:10"  
+  description = "Workshops - 10:00-10:50, 11:10-12:00, or 12:10-13:00"  
 
 +++
