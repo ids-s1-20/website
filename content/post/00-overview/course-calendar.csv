@@ -1,0 +1,86 @@
+﻿date,day,due_type,due_detail,mark_type,who,week
+2020-09-21,Monday,,,,,1
+2020-09-22,Tuesday,,,,,1
+2020-09-23,Wednesday,,,,,1
+2020-09-24,Thursday,,,,,1
+2020-09-25,Friday,,,,,1
+2020-09-26,Saturday,,,,,1
+2020-09-27,Sunday,Quiz,Q 0,Not marked,Individual,1
+2020-09-28,Monday,Extra credit,Exchange,Extra credit,Individual,2
+2020-09-29,Tuesday,Lab,L 0,Not marked,Individual,2
+2020-09-30,Wednesday,,,,,2
+2020-10-01,Thursday,Homework,HW 0,Not marked,Individual,2
+2020-10-02,Friday,,,,,2
+2020-10-03,Saturday,,,,,2
+2020-10-04,Sunday,Quiz,Q 1,Marked,Individual,2
+2020-10-05,Monday,,,,,3
+2020-10-06,Tuesday,Lab,L 1,Marked,Individual,3
+2020-10-07,Wednesday,Feedback survey,Course,Not marked,Individual,3
+2020-10-08,Thursday,,,,,3
+2020-10-09,Friday,Extra credit,Exchange,Extra credit,Individual,3
+2020-10-10,Saturday,Feedback survey,Peer,Marked,Individual,3
+2020-10-11,Sunday,Quiz,Q 2,Marked,Individual,3
+2020-10-12,Monday,,,,,4
+2020-10-13,Tuesday,Lab,L 2,Marked,Team,4
+2020-10-14,Wednesday,,,,,4
+2020-10-15,Thursday,Homework,HW 1,Marked,Individual,4
+2020-10-16,Friday,,,,,4
+2020-10-17,Saturday,,,,,4
+2020-10-18,Sunday,Quiz,Q 3,Marked,Individual,4
+2020-10-19,Monday,,,,,5
+2020-10-20,Tuesday,Lab,L 3,Marked,Team,5
+2020-10-21,Wednesday,,,,,5
+2020-10-22,Thursday,,,,,5
+2020-10-23,Friday,Project,Proposal,Marked,Team,5
+2020-10-24,Saturday,Feedback survey,Peer,Marked,Individual,5
+2020-10-25,Sunday,Quiz,Q 4,Marked,Individual,5
+2020-10-26,Monday,,,,,6
+2020-10-27,Tuesday,Lab,L 4,Marked,Team,6
+2020-10-28,Wednesday,,,,,6
+2020-10-29,Thursday,Homework,HW 2,Marked,Individual,6
+2020-10-30,Friday,,,,,6
+2020-10-31,Saturday,,,,,6
+2020-11-01,Sunday,Quiz,Q 5,Marked,Individual,6
+2020-11-02,Monday,,,,,7
+2020-11-03,Tuesday,Lab,L 5,Marked,Team,7
+2020-11-04,Wednesday,Feedback survey,Course,Not marked,Individual,7
+2020-11-05,Thursday,,,,,7
+2020-11-06,Friday,Project,"Proposal,
+take 2",Marked,Team,7
+2020-11-07,Saturday,,,,,7
+2020-11-08,Sunday,Quiz,Q 6,Marked,Individual,7
+2020-11-09,Monday,,,,,8
+2020-11-10,Tuesday,Lab,L 6,Marked,Team,8
+2020-11-11,Wednesday,,,,,8
+2020-11-12,Thursday,Homework,HW 3,Marked,Individual,8
+2020-11-13,Friday,,,,,8
+2020-11-14,Saturday,Feedback survey,Peer,Marked,Individual,8
+2020-11-15,Sunday,Quiz,Q 7,Marked,Individual,8
+2020-11-16,Monday,,,,,9
+2020-11-17,Tuesday,Lab,L 7,Marked,Team,9
+2020-11-18,Wednesday,,,,,9
+2020-11-19,Thursday,,,,,9
+2020-11-20,Friday,,,,,9
+2020-11-21,Saturday,,,,,9
+2020-11-22,Sunday,Quiz,Q 8,Marked,Individual,9
+2020-11-23,Monday,,,,,10
+2020-11-24,Tuesday,Lab,L 8,Marked,Team,10
+2020-11-25,Wednesday,,,,,10
+2020-11-26,Thursday,Homework,HW 4,Marked,Individual,10
+2020-11-27,Friday,,,,,10
+2020-11-28,Saturday,,,,,10
+2020-11-29,Sunday,Quiz,Q 9,Marked,Individual,10
+2020-11-30,Monday,,,,,11
+2020-12-01,Tuesday,Project,Progress,Marked,Team,11
+2020-12-02,Wednesday,,,,,11
+2020-12-03,Thursday,,,,,11
+2020-12-04,Friday,Project,Project,Marked,Team,11
+2020-12-05,Saturday,Feedback survey,Peer,Marked,Individual,11
+2020-12-06,Sunday,Quiz,Q 10,Marked,Individual,11
+2020-12-07,Monday,,,,,12
+2020-12-08,Tuesday,,,,,12
+2020-12-09,Wednesday,,,,,12
+2020-12-10,Thursday,Homework,HW 5,Marked,Individual,12
+2020-12-11,Friday,Extra credit,Errata,Extra credit,Individual,12
+2020-12-12,Saturday,,,,,12
+2020-12-13,Sunday,,,,,12
