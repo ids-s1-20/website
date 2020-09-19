@@ -21,10 +21,16 @@ subtitle = "Videos released on Mondays, code alongs on Thursdays, workshops on F
   description = "Videos released"  
   
 [[feature]]
+  icon = "comments"
+  icon_pack = "far"
+  name = "Tuesday & Wednesday"
+  description = "Student hours - TBA"  
+  
+[[feature]]
   icon = "keyboard"
   icon_pack = "fas"
   name = "Thursday"
-  description = "Code along sessions - time TBA"
+  description = "Code along sessions - 11:10-12:00"
   
 [[feature]]
   icon = "laptop-code"
