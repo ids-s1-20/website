@@ -92,9 +92,9 @@ These weekly R tutorials are designed to help with your learning. They are optio
 
 Your overall course grade will be comprised of the following components, and their weights:
 
-- Homework: 50%
+- Homework: 40%
 - Lab: 20%
-- Project: 20%
+- Project: 30%
 - Quiz: 10%
 
 ### Moderation and scaling
