@@ -32,11 +32,11 @@ title: 'Week 1 - Welcome to IDS'
 
 You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/1_6yu2vygq/).
 
-| No. | Title                | YouTube | MediaHopper | Slides |
-|:---:|:---------------------|:-------:|:-----------:|:------:|
-| 01  | Welcome to IDS!      | [:arrow_forward:](https://youtu.be/OJ1xR0ObhIw) | [:film_projector:](https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d01-welcome/w1-d01-welcome.html#1)  |
-| 02  | AE: First dataviz    | [:arrow_forward:](https://youtu.be/r-uTBEclM1E) | [:film_projector:](https://media.ed.ac.uk/media/IDS+-+Week+01+-+02+-+First+dataviz/1_krzz4v2a) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d02-your-turn-unvotes-covid/w1-d02-your-turn-unvotes-covid.html#1) |
-| 03  | Course information   | [:arrow_forward:](https://youtu.be/xQAwoUECw70) | [:film_projector:](https://media.ed.ac.uk/media/IDS+-+Week+01+-+03+-+Course+information/1_zldvjee2) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d03-course-information/w1-d03-course-information.html#1) |
+| No. | Title                | YouTube | MediaHopper |  Slides  |
+|:---:|:---------------------|:-------:|:-----------:|:--------:|
+| 01  | Welcome to IDS!      | [<span style="color: red;"><i class="fab fa-youtube"></i></span>](https://youtu.be/OJ1xR0ObhIw) | [<span style="color: #0A1E3F;"><i class="fas fa-file-video"></i></span>](https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a) | [<span style="color: #4b5357;"><i class="fas fa-desktop"></i></span>](https://ids-s1-20.github.io/slides/week-01/w1-d01-welcome/w1-d01-welcome.html#1)  |
+| 02  | AE: First dataviz    | [<span style="color: red;"><i class="fab fa-youtube"></i></span>](https://youtu.be/r-uTBEclM1E) | [<span style="color: #0A1E3F;"><i class="fas fa-file-video"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+01+-+02+-+First+dataviz/1_krzz4v2a) | [<span style="color: #4b5357;"><i class="fas fa-desktop"></i></span>](https://ids-s1-20.github.io/slides/week-01/w1-d02-your-turn-unvotes-covid/w1-d02-your-turn-unvotes-covid.html#1) |
+| 03  | Course information   | [<span style="color: red;"><i class="fab fa-youtube"></i></span>](https://youtu.be/xQAwoUECw70) | [<span style="color: #0A1E3F;"><i class="fas fa-file-video"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+01+-+03+-+Course+information/1_zldvjee2) | [<span style="color: #4b5357;"><i class="fas fa-desktop"></i></span>](https://ids-s1-20.github.io/slides/week-01/w1-d03-course-information/w1-d03-course-information.html#1) |
 | 04  | Meet the toolkit     | To be posted | To be posted | To be posted |
 
 ### Readings
