@@ -17,7 +17,7 @@ social:
   link: https://piazza.com/
 - icon: university
   icon_pack: fas
-  link: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4932155_1&course_id=_78830_1
+  link: https://www.learn.ed.ac.uk/
   
 superuser: true
 ---

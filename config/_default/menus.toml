@@ -56,6 +56,6 @@
 
 [[main]]
   name = "<i class='fas fa-university'></i>"
-  url = "https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4932155_1&course_id=_78830_1"
+  url = "learn.ed.ac.uk"
   weight = 130
   menu_align_right = true
