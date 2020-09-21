@@ -20,7 +20,7 @@ title: 'Week 1 - Welcome to IDS'
 
 - Watch the videos (see below)
 - Complete the readings (see below)
-- Visit the course on [Learn](https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4932155_1&course_id=_78830_1) to join RStudio Cloud
+- Visit the course on [Learn](https://www.learn.ed.ac.uk/) to join RStudio Cloud
 - Look for announcement emails about:
   - Links for Zoom meetings (for this week, these are the code along session on Thursday and workshop on Friday) 
   - Joining the Teams space for the course
