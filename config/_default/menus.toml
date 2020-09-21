@@ -56,6 +56,6 @@
 
 [[main]]
   name = "<i class='fas fa-university'></i>"
-  url = "learn.ed.ac.uk"
+  url = "https://www.learn.ed.ac.uk/"
   weight = 130
   menu_align_right = true
