@@ -106,7 +106,7 @@ office_hours = ["TBD"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "piazza", icon_pack = "ai", name = "Piazza", link = "https://piazza.com/configure-classes/fall2020/math08077"},
+  {icon = "piazza", icon_pack = "ai", name = "Piazza", link = "https://piazza.com"},
   {icon = "envelope", icon_pack = "fas", name = "Email", link = "mailto:mine.cetinkaya-rundel@ed.ac.uk"},
   ]
   

@@ -14,7 +14,7 @@ social:
   link: https://rstudio.cloud/
 - icon: piazza
   icon_pack: ai
-  link: piazza.com/ed.ac.uk/fall2020/math08077/home
+  link: https://piazza.com/
 - icon: university
   icon_pack: fas
   link: https://www.learn.ed.ac.uk/webapps/blackboard/content/listContentEditable.jsp?content_id=_4932155_1&course_id=_78830_1
