@@ -23,7 +23,13 @@ subtitle = "Videos released on Mondays, code alongs on Thursdays, workshops on F
 [[feature]]
   icon = "comments"
   icon_pack = "far"
-  name = "Tuesday & Wednesday"
+  name = "Tuesday"
+  description = "Student hours - TBA"  
+  
+[[feature]]
+  icon = "comments"
+  icon_pack = "far"
+  name = "Wednesday"
   description = "Student hours - TBA"  
   
 [[feature]]
