@@ -34,7 +34,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | No. | Title                | YouTube | MediaHopper |
 |:---:|:---------------------|:-------:|:-----------:|
 | 01  | Welcome to IDS!      | [:arrow_forward:](https://youtu.be/OJ1xR0ObhIw) | [:film_projector:](https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a) |
-| 02  | AE: First dataviz    | [:arrow_forward:]() | [:film_projector:]() |
+| 02  | AE: First dataviz    | To be posted | To be posted |
 | 03  | Course information   | [:arrow_forward:](https://youtu.be/xQAwoUECw70) | [:film_projector:](https://media.ed.ac.uk/media/IDS+-+Week+01+-+03+-+Course+information/1_zldvjee2) |
 | 04  | Meet the toolkit   | To be posted | To be posted |
 
