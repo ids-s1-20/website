@@ -12,6 +12,12 @@ title = "Resources"
 - [R 4 Data Science](http://r4ds.had.co.nz)
 - [Open Intro: Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
 
+## Tools
+
+- [RStudio Cloud](https://rstudio.cloud/)
+- [GitHub](https://github.com/ids-s1-20)
+- Piazza - Link coming soon!
+
 ## Cheatsheets
 
 - [RStudio](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
