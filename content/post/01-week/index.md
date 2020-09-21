@@ -34,7 +34,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | No. | Title                | YouTube | MediaHopper | Slides  |
 |:---:|:---------------------|:-------:|:-----------:|:-------:|
 | 01  | Welcome to IDS!      | [:arrow_forward:](https://youtu.be/OJ1xR0ObhIw) | [:film_projector:](https://media.ed.ac.uk/media/Week+1+-+01+-+Welcome+to+IDS%21/1_b5uz1e1a) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d01-welcome/w1-d01-welcome.html#1)  |
-| 02  | AE: First dataviz    | To be posted | To be posted | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d02-your-turn-unvotes-covid/w1-d02-your-turn-unvotes-covid.html#1) |
+| 02  | AE: First dataviz    | [:arrow_forward:](https://youtu.be/r-uTBEclM1E) | [:film_projector:](https://media.ed.ac.uk/media/IDS+-+Week+01+-+02+-+First+dataviz/1_krzz4v2a) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d02-your-turn-unvotes-covid/w1-d02-your-turn-unvotes-covid.html#1) |
 | 03  | Course information   | [:arrow_forward:](https://youtu.be/xQAwoUECw70) | [:film_projector:](https://media.ed.ac.uk/media/IDS+-+Week+01+-+03+-+Course+information/1_zldvjee2) | [:computer:](https://ids-s1-20.github.io/slides/week-01/w1-d03-course-information/w1-d03-course-information.html#1) |
 | 04  | Meet the toolkit   | To be posted | To be posted | To be posted |
 
