@@ -22,6 +22,11 @@
   name = "Help"
   url = "#help"
   weight = 60
+  
+[[main]]
+  name = "Extra credit"
+  url = "#extra"
+  weight = 61
 
 [[main]]
   name = "Project"
