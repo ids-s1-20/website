@@ -54,6 +54,18 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | :page_facing_up: | [1,500 scientists lift the lid on reproducibility](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970) | Optional |
 |  :fountain_pen:  | [How R changed me as an analyst](https://nhsrcommunity.com/blog/how-r-changed-me-as-an-analyst/) | Optional
 
+### Code-along
+
+This week we worked with the [Himalayan climbing expeditions data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-22/readme.md) from TidyTuesday. TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday) and see people's contributions on Twitter under the [#tidytuesday hashtag](https://twitter.com/search?q=tidytuesday&src=typed_query). 
+
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled `Code Along 01 - Himalayan Climbing Expeditions`.
+
+| <div style="width:150px"></div>  | <div style="width:400px"></div>  |  <div style="width:100px"></div> |
+|:---|---:|---:|
+| Recordings | [<span style="color: red;"><i class="fab fa-youtube"></i></span> YouTube](https://youtu.be/QiNlCEPw6Gc) | <span style="color: #0A1E3F;"><i class="fas fa-file-video"></i></span> [MediaHopper](https://media.ed.ac.uk/media/IDS+-+Week+01+-+Code+along/1_41jajjd7) |
+| Session artifacts | [R Markdown](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.Rmd) | [Output](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.md) |
+| Bonus | [Text analysis of chat transcript from the session!](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/01-chat-analysis.md) |
+
 ### Assignments
 
 | <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
