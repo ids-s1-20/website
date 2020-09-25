@@ -71,7 +71,7 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 | <div style="width:100px;text-align:center">Assignment</div> | <div style="width:360px;text-align:left">Title</div> | <div style="width:200px;text-align:center">Due</div> |
 |:---|:---|:---:|
 | Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
-| OQ 00 | Syllabus and toolkit basics [To be posted] | Sun, 27 Sep, 23:59 UK |
+| OQ 00 | [Syllabus data](https://minecr.shinyapps.io/01-overview) | Sun, 27 Sep, 23:59 UK |
 
 ### Notes
 
