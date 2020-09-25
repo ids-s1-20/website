@@ -99,7 +99,7 @@ Please review the official University and School policies  [here](https://teachi
 
 ### Regrade requests 
 
-Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted in person to me via email. These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted in person to me via email to David Elliott ([david.elliott@ec.ac.uk](david.elliott@ec.ac.uk)). These will be honoured if points were tallied incorrectly, or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. There will be no grade changes after the final project presentations.
 
 ### Diversity & inclusion
 
