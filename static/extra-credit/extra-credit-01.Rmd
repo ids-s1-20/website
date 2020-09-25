@@ -1,0 +1,55 @@
+---
+title: "Extra credit: Survey writing"
+subtitle: "Virtual Exchange, Part 1"
+output: html_document
+---
+
+## Survey Writing
+
+### Goal
+
+The goal of this task to define a workplace or student construct of happiness and write survey questions to measure this construct. You will share your work with students at the University of Florida and pick good survey questions and discuss what worked and discuss strengths and weaknesses of survey questions.
+
+### Task
+
+#### Step 1
+
+Choose one of the two prefaces below. You don't need to complete the task for both, just one is sufficient.
+
+- Preface 1: You are a university administrator and interested in your student’s well-being and happiness. You believe that student happiness is a key to student academic success. You would like to send out a survey every year to determine students' happiness at the college. 
+
+- Preface 2: You are a manager at a business and interested in your employee’s well-being and happiness. You believe that employees happiness at their workplace is an important pillar of the business’s success.  You would like to send out a survey every year to determine employee’s happiness at the business. 
+
+Write a construct of happiness that you are interested in studying. Then write a survey to measure this construct. Make sure to determine an actionable objective for your survey. Your team has been asked to provide 3 questions. 
+
+You want to make sure that your questions are clear, easy to understand and unbiased. Remember that these questions need to be specific and be able to lead to results in which actions and decisions can be based. 
+
+You will enter your three survey questions [on this Google Doc](https://docs.google.com/document/d/1o3z0VS2ODkymJuwcCMcv1OrDuI188yfu1NcExtRM-AA/edit?usp=sharing). Make sure to enter under University of Edinburgh.
+
+**Due Date:** Add your questions to the Google Doc by Sunday, 27 September, 17:00 UK time.
+
+#### Step 2
+
+Review the questions posted by others. Pick the questions that best meet the requirements. The questions should be judged on the below criteria. 
+
+-	The construct and objective are clearly written and easy to understand. 
+-	The survey questions measure the construct. 
+-	The survey questions are specific and lead to results in which an action or decision can be based. 
+-	The questions are clear and easy to understand. 
+-	The questions are unbiased. 
+
+**Due Date:** Review the Google Doc and reflect on the submissions by Monday, 28 September, 14:00 UK time.
+
+#### Step 3
+
+**Join the Zoom call** with University of Edinburgh and University of Florida students on  Monday, 28 September, 15:00-16:00 UK time. 
+
+Link will be sent out via a Learn announcement and posted on Learn.
+
+#### Step 4
+
+Fill out the following form.
+
+**Due Date:** Submit your answers by Tuesday, 29 September, 17:00 UK time.
+
+<iframe width="900px" height= "1500px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMERTU0ZMR0FOMEtRTjNMMDlONTZQTVBBUC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>

@@ -18,15 +18,12 @@ title: 'Week 1 - Welcome to IDS'
 
 ### Tasks
 
-- Watch the videos (see below)
-- Complete the readings (see below)
+- Watch the [videos](/post/01-week/#videos)
+- Complete the [readings](/post/01-week/#readings)
 - Visit the course on [Learn](https://www.learn.ed.ac.uk/) to join RStudio Cloud
 - Complete the [Getting to Know you survey](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMkU3TzFXRTkyTFBVVjBLVUVTRDdJVlg2WS4u)
-- Look for announcement emails about:
-  - Links for Zoom meetings (for this week, these are the code along session on Thursday and workshop on Friday) 
-  - Joining the Teams space for the course
-  - Extra credit opportunity
-- Take the online quiz by Sunday (see below, not graded)
+- Complete the [assignments](/post/01-week/#assignments)
+  - Participation in the Extra Credit opportunity is optional, but **highly** encouraged
 
 ### Videos
 
@@ -72,6 +69,8 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 |:---|:---|:---:|
 | Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
 | OQ 00 | [Syllabus data](https://minecr.shinyapps.io/01-overview) | Sun, 27 Sep, 23:59 UK |
+| Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
+| EC | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
 
 ### Notes
 
