@@ -39,6 +39,19 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | 05  | Meet the toolkit: programming     | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/mTAZLFcpnLI) | [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+01+-+05+-+Meet+the+toolkitA+Programming/1_pbi0vuko) | [<span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"></i></span>](https://ids-s1-20.github.io/slides/week-01/w1-d05-toolkit-r/w1-d05-toolkit-r.html#1) | 34:17 |
 | 06  | Meet the toolkit: version control and collaboration     | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/124DQasLyNQ) | [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+01+-+06+-+Meet+the+toolkitA+Version+control+and+collaboration/1_e2snrdxn) | [<span style="color: #4b5357;"><i class="fas fa-desktop fa-lg"></i></span>](https://ids-s1-20.github.io/slides/week-01/w1-d05-toolkit-git/w1-d06-toolkit-git.html#1) | 11:24 |
 
+### Assignments
+
+**Note:** This week's assignments will not be marked, they are provided as practice and to help you get acquainted with the material without the pressure of grades. Formative feedback will be provided. Even though there is no penalty for not completing them, you are urged to complete them so that you are prepared for next week and beyond.
+
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| OQ 00 | [Syllabus data](https://minecr.shinyapps.io/01-overview) | Sun, 27 Sep, 23:59 UK |
+| *Due next week* | | |
+| Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
+| HW 00  | [Pet names](https://ids-s1-20.github.io/homework/hw-00/hw-00-pet-names.html) | Thur, 1 Oct, 16:00 UK |
+| EC | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
+
 ### Readings
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
@@ -63,15 +76,10 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 | Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/himalayan-climbing.md) |
 | Bonus | [Text analysis of chat transcript from the session!](https://github.com/ids-s1-20/code-along/blob/master/01-code-along/01-chat-analysis.md) |
 
-### Assignments
+### Interactive R tutorials
 
-| <div style="width:100px;text-align:center">Assignment</div> | <div style="width:360px;text-align:left">Title</div> | <div style="width:200px;text-align:center">Due</div> |
-|:---|:---|:---:|
-| OQ 00 | [Syllabus data](https://minecr.shinyapps.io/01-overview) | **Sun, 27 Sep, 23:59 UK** |
-| Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
-| HW 00  | [Pet names](https://ids-s1-20.github.io/homework/hw-00/hw-00-pet-names.html) | Thur, 1 Oct, 16:00 UK |
-| EC | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
+The following interactive R tutorials is designed to give you more practice with R. If you're struggling with any of the topics covered this week, we strongly recommend you work through it.
 
-### Notes
-
-This week's assignments will not be marked, they are provided as practice and to help you get acquainted with the material without the pressure of grades. Formative feedback will be provided. Even though there is no penalty for not completing them, you are urged to complete them so that you are prepared for next week and beyond.
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Visualize data](https://rstudio.cloud/learn/primers/3)                      | Extra practice   |
