@@ -15,8 +15,9 @@ title = "Resources"
 ## Tools
 
 - [RStudio Cloud](https://rstudio.cloud/)
-- [GitHub](https://github.com/ids-s1-20)
-- Piazza - Link coming soon!
+- [GitHub](https://github.com/ids-s1-20/)
+- [Piazza](https://piazza.com/)
+- MS Teams
 
 ## Cheatsheets
 
