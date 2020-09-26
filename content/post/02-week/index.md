@@ -52,7 +52,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
 | HW 00  | [Pet names](https://ids-s1-20.github.io/homework/hw-00/hw-00-pet-names.html) | Thur, 1 Oct, 16:00 UK |
 | EC     | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
-| OQ 01  | *To be posted* | Sun, 4 Oct, 23:59 UK |
+| OQ 01  | [Data visuallization](https://minecr.shinyapps.io/01-dataviz/) | Sun, 4 Oct, 23:59 UK |
 | *Due next week* | | |
 | Lab 01 | *To be posted* | Tue, 6 Oct, 16:00 UK |
 
