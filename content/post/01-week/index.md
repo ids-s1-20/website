@@ -70,6 +70,7 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 | Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
 | OQ 00 | [Syllabus data](https://minecr.shinyapps.io/01-overview) | Sun, 27 Sep, 23:59 UK |
 | Lab 00 | [Hello IDS!](https://ids-s1-20.github.io/labs/lab-00/lab-00-hello-ids.html) | Tue, 29 Sep, 16:00 UK |
+| HW 00  | [Pet names](https://ids-s1-20.github.io/homework/hw-00/hw-00-pet-names.html) | Thur, 1 Oct, 16:00 UK |
 | EC | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
 
 ### Notes
