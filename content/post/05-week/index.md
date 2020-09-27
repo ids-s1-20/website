@@ -16,13 +16,17 @@ summary: Tips for effective data visualization, communication of results, and co
 title: 'Week 5 - Communicating data science results effectively'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

@@ -16,13 +16,17 @@ summary: Harvesting data from the web, writing functions, and iteration.
 title: 'Week 6 - Web scraping and programming '
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

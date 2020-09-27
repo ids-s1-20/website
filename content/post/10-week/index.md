@@ -16,13 +16,17 @@ summary: Peforming model validation and prediction.
 title: 'Week 10 - Prediction and model validation'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

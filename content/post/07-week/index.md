@@ -16,13 +16,17 @@ summary: Misrepresentation of findings, data privacy, and algorithmic bias
 title: 'Week 7 - Data science ethics'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

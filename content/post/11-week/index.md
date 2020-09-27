@@ -16,13 +16,17 @@ summary: Quantifying uncertainty via bootstrapping and looking beyond IDS.
 title: 'Week 11 - Quantifying uncertainty and looking beyond'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

@@ -16,13 +16,17 @@ summary: Data wrangling, tidying, and reshaping.
 title: 'Week 3 - Wrangling and tidying data'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

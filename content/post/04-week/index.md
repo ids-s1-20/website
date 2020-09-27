@@ -16,13 +16,17 @@ summary: Importing and recoding data and joining data from multiple sources.
 title: 'Week 4 - Importing, joining, and recoding data'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 

@@ -16,13 +16,17 @@ summary: Logistic regression for predicting categorical data and performing mode
 title: 'Week 9 - Model selection and classification'
 ---
 
-### Videos
-
 ### Tasks
 
-### Suggestions
+### Videos
 
-### Notes
+### Assignments
+
+### Readings
+
+### Code-along
+
+### Interactive R tutorials
 
 <!--
 
