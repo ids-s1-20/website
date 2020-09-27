@@ -82,4 +82,4 @@ The following interactive R tutorials is designed to give you more practice with
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Visualize data](https://rstudio.cloud/learn/primers/3)                      | Extra practice   |
+| [Data Visualization Basics](https://rstudio.cloud/learn/primers/1.1) | Extra practice |
