@@ -27,7 +27,7 @@ title: 'Week 1 - Welcome to IDS'
 
 ### Videos
 
-You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/1_6yu2vygq/).
+You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
