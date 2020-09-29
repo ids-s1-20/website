@@ -27,7 +27,7 @@ Most of you will need help at some point and we want to make sure you can identi
 - For more general support and advice, please make use of the following resources:
   - Your personal tutor (especially if you are struggling in general)
   - Student learning advisor for the course
-  - [Institue for Academic Development](https://www.ed.ac.uk/institute-academic-development) (for more generic study skills information): Online events and support
+  - [Institute for Academic Development](https://www.ed.ac.uk/institute-academic-development) (for more generic study skills information): Online events and support
   - [The Advice Place](https://www.eusa.ed.ac.uk/support_and_advice/the_advice_place/): Open for phone and email advice
   - [Student Disability Service](https://www.ed.ac.uk/student-disability-service)
 
