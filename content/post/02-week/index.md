@@ -49,6 +49,8 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | *Due next week* | | |
 | Lab 01 | *To be posted* | Tue, 6 Oct, 16:00 UK |
 
+If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
+
 ### Readings
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
