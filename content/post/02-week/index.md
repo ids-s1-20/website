@@ -47,7 +47,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | EC     | [Extra credit](/extra-credit/extra-credit-01.html) | Multiple (see assignment) |
 | OQ 01  | [Data visuallization](https://minecr.shinyapps.io/01-dataviz/) | Sun, 4 Oct, 23:59 UK |
 | *Due next week* | | |
-| Lab 01 | *To be posted* | Tue, 6 Oct, 16:00 UK |
+| Lab 01 | [Plastic waste](https://ids-s1-20.github.io/labs/lab-01/lab-01-plastic-waste.html) | Tue, 6 Oct, 16:00 UK |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
 
