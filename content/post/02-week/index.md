@@ -64,7 +64,14 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-*Code-along materials to be posted after the session on Thursday.*
+The data come from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md). TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday) and see people's contributions on Twitter under the [#tidytuesday hashtag](https://twitter.com/search?q=tidytuesday&src=typed_query). 
+
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 02 - Beyoncé and Taylor Swift Lyrics*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | To be posted |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/02-code-along/beyonce-tswift.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/02-code-along/beyonce-tswift.md) |
 
 ### Interactive R tutorials
 
