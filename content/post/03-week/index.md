@@ -11,42 +11,57 @@ image:
   preview_only: true
 lastmod: "2020-10-05T00:00:00Z"
 projects: []
-subtitle: 'Data wrangling, tidying, and reshaping :wrench:'
-summary: Data wrangling, tidying, and reshaping.
+subtitle: 'Data wrangling, joining, and tidying :wrench:'
+summary: Data wrangling, joining, and tidying.
 title: 'Week 3 - Wrangling and tidying data'
 ---
 
 ### Tasks
 
+- Watch the [videos](/post/03-week/#videos)
+- Complete the [readings](/post/03-week/#readings)
+- Complete the [assignments](/post/03-week/#assignments)
+- (Optional) Complete the [Course feedback survey](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMFNaSjAxMDQyUDZHQk9ZOFMxQlZERDlMUC4u) (not graded)
+- (Optional) Participate in the Virtual exchange (extra credit)
+  - *Task details to be posted*
+  - Zoom call on Friday, 9 Oct, 19:00-20:00 UK time
+
 ### Videos
+
+*To be posted*
 
 ### Assignments
 
-### Readings
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| Lab 01 | [Plastic waste](https://ids-s1-20.github.io/labs/lab-01/lab-01-plastic-waste.html) | Tue, 6 Oct, 16:00 UK |
+| OQ 01  | [Data wrangling](https://minecr.shinyapps.io/02-datawrangle/) | Sun, 11 Oct, 23:59 UK |
+| *Due next week* | | |
+| Lab 02 | To be posted | Tue, 13 Oct, 16:00 UK |
+| HW 01 | To be posted | Thur, 15 Oct, 16:00 UK |
 
-### Code-along
-
-### Interactive R tutorials
-
-<!--
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
-|---:|---|---|
-| Lec 05 | [Tidy data and data wrangling](/slides/w3_d1-data-wrangle/w3_d1-data-wrangle.html) |
-| Lab 03 | [Nobel laureates](/labs/lab-03/lab-03-nobel-laureates.html) | **Due:** Fri, 4 Oct, 17:00 |
-| Lec 06 | [Data types and recoding data](/slides/w3_d2-data-types-recoding/w3_d2-data-types-recoding.html) |
-| HW 03  | [What should I major in?](/hw/hw-03/hw-03-college-majors.html) | **Due:** Wed, 9 Oct, 17:00 |
-| RT 03  | [Interactive tutorial covering week’s material](https://rstudio.cloud/learn/primers/2) |
-| OQ 03  | [Data wrangling](https://minecr.shinyapps.io/03-datawrangle/) | **Due:** Fri, 11 Oct, 17:00
+If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
 
 ### Readings
 
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
-| :open_book: | R4DS: [Chp 4, Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html) | **Required** |
-| :open_book: | R4DS: [Chp 5, Data transformation](https://r4ds.had.co.nz/transform.html) | **Required** |
-| :open_book: | OS: [Chp 2, Summarizing data](https://www.openintro.org/stat/textbook.php?stat_book=os) | **Required** |
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| :open_book: | [R4DS::Chp 4 - Workflow: basics](https://r4ds.had.co.nz/workflow-basics.html) | **Required** |
+| :open_book: | [R4DS::Chp 5 - Data transformation](https://r4ds.had.co.nz/transform.html) | **Required** |
+| :open_book: | [IMS::Chp 2 - Summarizing and visualizing data](https://openintro-ims.netlify.app/summarizing-visualizing-data.html) (If you haven't read it last week!) | **Required** |
 | :fountain_pen: | [Data Wrangling Part 1: Basic to Advanced Ways to Select Columns](https://suzan.rbind.io/2018/01/dplyr-tutorial-1/) | Optional |
 | :fountain_pen: | [Data Wrangling Part 2: Transforming your columns into the right shape](https://suzan.rbind.io/2018/02/dplyr-tutorial-2/#spreading-and-gathering-data) | Optional |
 
--->
+### Code-along
+
+*To be posted after Thursday's session.*
+
+### Interactive R tutorials
+
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but the "Airbnb listings in Edinburgh" dataset show up in your next homework assignment as well, so you might want to go through that one so that you can gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the second tutorial as well.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Road Traffic Accidents](https://minecr.shinyapps.io/dsbox-02-accidents/) | Related to HW 01 |
+| [Work with data](https://rstudio.cloud/learn/primers/2)         | Extra practice   |
