@@ -19,7 +19,7 @@ library(sugrrants)
 library(lubridate)
 
 d <- read_csv("course-calendar.csv") %>%
-  mutate(date = as.Date(date))
+  mutate(date = dmy(date))
 
 d_cal <- d %>%
   frame_calendar(
