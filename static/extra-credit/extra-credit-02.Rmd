@@ -1,0 +1,39 @@
+---
+title: "Extra credit: Take a sad plot and make it better"
+subtitle: "Virtual Exchange, Part 2"
+output: html_document
+---
+
+## Goal
+
+The goal of this task to improve a data visualisation with the objective of telling a particular story and using data visualisation and wrangling techniques you've learned so far (and maybe even pushing yourself a bit further to try out something new). 
+
+## Task
+
+### Step 1
+
+Complete Lab 02 exercises during the workshop.
+
+### Step 2
+
+Export your final visualisation and paste it into this Google Doc [on this Google Doc](https://docs.google.com/document/d/1o3z0VS2ODkymJuwcCMcv1OrDuI188yfu1NcExtRM-AA/edit?usp=sharing). Make sure to enter under University of Edinburgh.
+
+**Due Date:** Add your questions to the Google Doc by Friday, 9 October, 19:00 UK time.
+
+### Step 3
+
+**Update your Zoom profile** to include `[UoE]` in the front of your name. To do so you will need to log on to Zoom **prior to** the meeting and update your profile. This will help us make sure we have participants from both schools in each room.
+
+### Step 4
+
+**Join the Zoom call** with University of Edinburgh and University of Florida students on Friday, 9 October, 19:00 UK time.
+
+Link will be sent out via a Learn announcement.
+
+### Step 4
+
+Fill out the following form.
+
+**Due Date:** Submit your answers by Sunday, 11 October, 17:00 UK time.
+
+<iframe width="900px" height= "1500px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUMzc4Rk5RNFlGN0NXU0UxRDY0T01IRENWMy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
