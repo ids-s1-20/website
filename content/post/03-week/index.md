@@ -63,7 +63,14 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-*To be posted after Thursday's session.*
+The data come from [TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-09-29/readme.md). TidyTuesday is a weekly social data project for the R community. Read more about TidyTuesday [here](https://github.com/rfordatascience/tidytuesday) and see people's contributions on Twitter under the [#tidytuesday hashtag](https://twitter.com/search?q=tidytuesday&src=typed_query). 
+
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 03 - College tuitio, diversity, and pay*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/Ycpwmn62aOA) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+03+-+Code+along/1_tm65h61m) |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/03-code-along/college.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/03-code-along/college.md) |
 
 ### Interactive R tutorials
 
