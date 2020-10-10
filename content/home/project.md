@@ -34,6 +34,8 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 - [TidyTuesday](https://github.com/rfordatascience/tidytuesday)
 - [NHS Scotland Open Data](https://www.opendata.nhs.scot/)
+- [Edinburgh Open Data](https://edinburghopendata.info/)
+- [Open access to Scotland's official statistics](https://statistics.gov.scot/home)
 - [Bikeshare data portal](https://www.bikeshare.com/data/)
 - [UK Gov Data](https://data.gov.uk/)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
