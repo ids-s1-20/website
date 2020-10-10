@@ -49,7 +49,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | OQ 01  | [Data wrangling](https://minecr.shinyapps.io/02-datawrangle/) | Sun, 11 Oct, 23:59 UK |
 | *Due next week* | | |
 | Lab 02 | [Take a sad plot and make it better](https://ids-s1-20.github.io/labs/lab-02/lab-02-sad-plot.html) | Tue, 13 Oct, 16:00 UK |
-| HW 01 | To be posted | Thur, 15 Oct, 16:00 UK |
+| HW 01 | [All about Edinburgh](https://ids-s1-20.github.io/labs/hw-01/hw-01-edinburgh.html) | Thur, 15 Oct, 16:00 UK |
 | EC    | [Extra credit](/extra-credit/extra-credit-02.html) | Multiple (see assignment) |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
