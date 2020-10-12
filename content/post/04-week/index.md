@@ -11,51 +11,63 @@ image:
   preview_only: true
 lastmod: "2020-10-12T00:00:00Z"
 projects: []
-subtitle: 'Importing and recoding data and joining data from multiple sources :chart_with_downwards_trend:'
-summary: Importing and recoding data and joining data from multiple sources.
-title: 'Week 4 - Importing, joining, and recoding data'
+subtitle: 'Importing and recoding data :chart_with_downwards_trend:'
+summary: Importing data, data types and classes, recoding.
+title: 'Week 4 - Importing and recoding data'
 ---
 
 ### Tasks
 
+- Watch the [videos](/post/04-week/#videos)
+- Complete the [readings](/post/04-week/#readings)
+- Complete the [assignments](/post/04-week/#assignments)
+
 ### Videos
+
+You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+| 01 | Keeping up with IDS: Week 4 |[<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/7Xzo1LcsrPs) |  | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+04+-+01+-+Keeping+up+with+IDS/1_n3sknpc8) |  | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/slides/blob/main/week-04/w4-d01-kuwids/w4-d01-kuwids.pdf) |  | 19:58 |  | 
+| 02 | Data types |to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/slides/blob/main/week-04/w4-d02-data-types/w4-d02-data-types.html) |  |  | 
+| 03 | Data classes |to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/slides/blob/main/week-04/w4-d04-data-import/w4-d04-data-import.html) |  |  | 
+| 04 | Importing data |to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/slides/blob/main/week-04/w4-d03-data-classes/w4-d03-data-classes.html) |  |  | 
+| 05 | Recoding data |to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/slides/blob/main/week-04/w4-d05-data-recode/w4-d05-data-recode.html) |  |  | 
+| 06 | AE: Hotels + Data types |to be posted | to be posted |  |  | 
+| 07 | AE: Nobels + Sales + Data import |to be posted | to be posted |  |  | 
+| 08 | Asking good questions |to be posted | to be posted |  |  | 
 
 ### Assignments
 
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| Lab 02 | [Take a sad plot and make it better](https://ids-s1-20.github.io/labs/lab-02/lab-02-sad-plot.html) | Tue, 13 Oct, 16:00 UK |
+| HW 01 | [All about Edinburgh](https://ids-s1-20.github.io/homework/hw-01/hw-01-edinburgh.html) | Thur, 15 Oct, 16:00 UK |
+| OQ 04  | To be posted | Sun, 18 Oct, 23:59 UK |
+| Peer evaluation | To be posted | Sat, 17 Oct, 23:59 UK |
+| *Due next week* | | |
+| Lab 03 | To be posted | |
+| Project proposal | To be posted | |
+
+If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
+
 ### Readings
+
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| :open_book: | [R4DS::Chp 11 - Data import](https://r4ds.had.co.nz/data-import.html) | **Required** |
+| :open_book: | [R4DS::Chp 15 - Factors](https://r4ds.had.co.nz/factors.html) | **Required** |
+| :open_book: | [R4DS::Chp 16.1 - 16.3 - Dates and times](https://r4ds.had.co.nz/dates-and-times.html) | **Required** |
 
 ### Code-along
 
+*To be posted*
+
 ### Interactive R tutorials
 
-<!--
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
 
-### Schedule
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
-|---:|---|---|
-| Lec 07 | [Tips for effective data visualization](/slides/w4_d1-effective-dataviz/w4_d1-effective-dataviz.html) |
-| Lab 04 | [Ugly charts](/labs/lab-04/lab-04-ugly-charts.html) | **Due:** Fri, 11 Oct, 17:00 |
-| Lec 08 | [Joining and mapping](/slides/w4_d2-joining-mapping/w4_d2-joining-mapping.html) |
-| HW 04  | [Legos and instructors](/hw/hw-04/hw-04-legos-instructors.html) | **Due:** Wed, 16 Oct, 17:00 |
-| RT 04  | Interactive tutorial covering week’s material: [Separate + unite](https://rstudio.cloud/learn/primers/4.2) + [Join](https://rstudio.cloud/learn/primers/4.3) |
-| OQ 04  | [Data joins and better visualizations](https://minecr.shinyapps.io/04-wrangleviz/) | **Due:** Fri, 18 Oct, 17:00
-
-### Readings
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
-|  :page_with_curl: | [Tidy data](https://tidyr.tidyverse.org/articles/tidy-data.html) | **Required** |
-|  :page_with_curl: | [Pivoting](https://tidyr.tidyverse.org/articles/pivot.html)      | **Required** |
-|  :fountain_pen:   | [Pulling the multi-national story out, step by step](https://junkcharts.typepad.com/junk_charts/2019/09/pulling-the-multi-national-story-out-step-by-step.html) | Optional |
-|  :fountain_pen:   | [Why do cats & dogs...?](https://whydocatsanddogs.com/) | Optional |
-|  :page_with_curl: | How do data scientists spend their time? - [https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/](https://tidyr.tidyverse.org/articles/tidy-data.html) (short) | Optional |
-|  :page_with_curl: | How do data scientists spend their time? - [What Data Scientists Really Do, According to 35 Data Scientists](https://hbr.org/2018/08/what-data-scientists-really-do-according-to-35-data-scientists) (long) | Optional |
-
-### Videos
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |
-|----:|---|
-| :film_projector: | [Hans Rosling: 200 Years in 2 Minutes](https://www.youtube.com/embed/Z8t4k0Q8e8Y) |
-
--->
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [What should I major in?](https://minecr.shinyapps.io/dsbox-03-collegegrads/) | Related to HW 02 |
