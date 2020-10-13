@@ -47,7 +47,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | OQ 04  | To be posted | Sun, 18 Oct, 23:59 UK |
 | Peer evaluation | To be posted | Sat, 17 Oct, 23:59 UK |
 | *Due next week* | | |
-| Lab 03 | To be posted | |
+| Lab 03 | [Nobel laureates](https://ids-s1-20.github.io/labs/lab-03/lab-03-nobel-laureates.html) | Tue, 20 Oct, 16:00 UK |
 | Project proposal | To be posted | |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
