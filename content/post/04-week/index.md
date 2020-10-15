@@ -35,7 +35,6 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | 05 | Recoding data | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/O8qxV3N4D5Q) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+05+-+05+-+Recoding+data/1_z5y3wha1)  | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-04/w4-d05-data-recode/w4-d05-data-recode.html) | 20:22 | 
 | 06 | AE: Hotels + Data types | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/sByadx_cgDc) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+04+-+06+-+AEA+Hotels+%2B+data+types/1_tica8os5)  |  | 17:00 | 
 | 07 | AE: Nobels + Sales + Data import | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/2vA6qizYnM8) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+04+-+07+-+AEA+Nobels+%26+sales+%2B+Data+import/1_1jkr2qy3)  |  | 19:28 | 
-| 08 | Asking good questions | to be posted | to be posted |  |  | 
 
 ### Assignments
 
@@ -62,7 +61,12 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-*To be posted*
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 04 - R Markdown tips & asking questions*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/AwxhHT46U8Y) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+04+-+Code+along/1_875wm17a) |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/04-code-along/sample.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/04-code-along/sample.md) |
 
 ### Interactive R tutorials
 
