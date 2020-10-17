@@ -74,4 +74,4 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [What should I major in?](https://minecr.shinyapps.io/dsbox-03-collegegrads/) | Related to HW 02 |
+| [What should I major in?](https://minecr.shinyapps.io/dsbox-03-collegemajors) | Related to HW 02 |
