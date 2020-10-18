@@ -18,42 +18,51 @@ title: 'Week 5 - Communicating data science results effectively'
 
 ### Tasks
 
+- Watch the [videos](/post/04-week/#videos)
+- Complete the [readings](/post/04-week/#readings)
+- Complete the [assignments](/post/04-week/#assignments)
+  - Especially work on the [project proposal]()
+
 ### Videos
+
+You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+| 01 | Keeping up with IDS: Week 5 | to be posted | to be posted | to be posted |  | 
+| 02 | Tips for effective data visualization | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-05/w5-d02-effective-dataviz/w5-d02-effective-dataviz.html) |  | 
 
 ### Assignments
 
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| Lab 03 | [Nobel laureates](https://ids-s1-20.github.io/labs/lab-03/lab-03-nobel-laureates.html) | Tue, 20 Oct, 16:00 UK |
+| PE 01 | Peer evaluation 01 (emailed via TEAMMATES) | Wed, 21 Oct, 16:00 UK |
+| OQ 04 | To be posted | Sun, 25 Oct, 23:59 UK |
+| *Due next week* | | |
+| Project proposal | To be posted | Tue, 27 Oct, 16:00 UK |
+| HW 02 | To be posted | Thur, 29 Oct, 16:00 UK |
+
+If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
+
 ### Readings
+
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
+| :open_book: | [R4DS::Chp 7 - Exploratory data analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | **Required** |
+| :open_book: | [IMS::Sec 2.3 - Effective data visualisation](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#effective-data-visualization) | **Required** |
+| :open_book: | [IMS::Sec 1.3 - Sampling principles and strategies](https://openintro-ims.netlify.app/getting-started-with-data.html#sampling-principles-strategies) | **Required** |
+| :open_book: | [IMS::Sec 1.4 - Experiments](https://openintro-ims.netlify.app/getting-started-with-data.html#experiments) | **Required** |
 
 ### Code-along
 
+*To  be posted*
+
 ### Interactive R tutorials
 
-<!--
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
 
-### Schedule
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
-|---:|---|---|
-| Lec 09 | [Scientific studies and confounding](/slides/w5_d1-studies-confounding/w5_d1-studies-confounding.html) |
-| Lab 05 | [Simpson’s paradox](/labs/lab-05/lab-05-simpsons-paradox.html)| **Due:** Fri, 18 Oct, 17:00 |
-| Lec 10 | [Communicating data science results effectively](/slides/w5_d2-effective-communication/w5_d2-effective-communication.html) |
-| HW 05  | [Project proposal](/hw/hw-05/hw-05-project-proposal.html) | **Due:** Wed, 23 Oct, 17:00 |
-| RT 05  | No interactive tutorial this week |
-| OQ 05  | [Coding best practices](https://minecr.shinyapps.io/05-coding/) |  **Due:** Fri, 25 Oct, 17:00 |
-
-### Readings
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
-| :open_book: | R4DS: [Chp 7, Exploratory Data Analysis](https://r4ds.had.co.nz/exploratory-data-analysis.html) | **Required** |
-| :open_book: | OS: [Chp 1, Sec 1.3 and 1.4](https://www.openintro.org/stat/textbook.php?stat_book=os) | **Required** |
-| :open_book: | R4DS: [Chp 14, Strings, Sec 14.1 and 14.2](https://r4ds.had.co.nz/strings.html) | **Required** |
-| :open_book: | R4DS: [Chp 15, Factors](https://r4ds.had.co.nz/factors.html) | **Required** |
-
-### Miscellaneous
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
-| :radio_button:  | [Mid-semester feedback (anonymous)](https://www.learn.ed.ac.uk/webapps/assessment/take/launchAssessment.jsp?course_id=_75012_1&content_id=_4369037_1&mode=cpview) | **Due:** Fri, 18 Oct, 17:00 |
-
--->
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Lego sales](https://minecr.shinyapps.io/dsbox-04-legosales/) | Related to HW 02 |

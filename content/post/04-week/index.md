@@ -44,10 +44,8 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | Lab 02 | [Take a sad plot and make it better](https://ids-s1-20.github.io/labs/lab-02/lab-02-sad-plot.html) | Tue, 13 Oct, 16:00 UK |
 | HW 01 | [All about Edinburgh](https://ids-s1-20.github.io/homework/hw-01/hw-01-edinburgh.html) | Thur, 15 Oct, 16:00 UK |
 | OQ 03  | [Data wrangling and visualisation](https://minecr.shinyapps.io/03-wrangleviz/) | Sun, 18 Oct, 23:59 UK |
-| Peer evaluation | To be posted | Sat, 17 Oct, 23:59 UK |
 | *Due next week* | | |
 | Lab 03 | [Nobel laureates](https://ids-s1-20.github.io/labs/lab-03/lab-03-nobel-laureates.html) | Tue, 20 Oct, 16:00 UK |
-| Project proposal | To be posted | |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
 
