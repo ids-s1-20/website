@@ -48,7 +48,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 ### Deliverables
 
-1. Proposal     - due Friday, 23 Oct, at 17:00
+1. Proposal     - due Tuesday, 27 Oct, at 16:00
 1. Presentation - due Friday, 4 Dec, at 09:00 as pre-recorded video or live presentation in workshop
 1. Summary      - due Friday, 4 Dec, at 09:00
 
@@ -63,8 +63,7 @@ and codebook to the README in that folder. Then print out the output of
 `glimpse()` or `skim()` of your data frame.
 
 - Section 3 - Data analysis plan:
-  - The outcome (response, Y) and predictor (explanatory, X) 
-variables you will use to answer your question.
+  - The outcome (response, Y) and predictor (explanatory, X) variables you will use to answer your question.
   - The comparison groups you will use, if applicable.
   - Very preliminary exploratory data analysis, including some summary statistics 
 and visualizations, along with some explanation on how they help you learn more 
