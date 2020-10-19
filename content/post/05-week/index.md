@@ -30,7 +30,8 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
 | 01 | Keeping up with IDS: Week 5 | to be posted | to be posted | to be posted |  | 
-| 02 | Tips for effective data visualization | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-05/w5-d02-effective-dataviz/w5-d02-effective-dataviz.html) |  | 
+| 02 | Tips for effective data visualization | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/ZrifrBvFWgg) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+05+-+02+-+Tips+for+effective+data+visualisation/1_nq2p4uwj)  |  | 37:35 | 
+| 03 | AE: Brexit + Telling stories with dataviz | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/aPqnkcn13kQ) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+05+-+03+-+AEA+Brexit+%2B+Telling+stories+with+dataviz/1_nnk2adiq)  |  | 19:48 | 
 
 ### Assignments
 
