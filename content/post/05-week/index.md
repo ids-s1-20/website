@@ -43,7 +43,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | *Due this week* | | |
 | Lab 03 | [Nobel laureates](https://ids-s1-20.github.io/labs/lab-03/lab-03-nobel-laureates.html) | Tue, 20 Oct, 16:00 UK |
 | PE 01 | Peer evaluation 01 (emailed via TEAMMATES) | Wed, 21 Oct, 16:00 UK |
-| OQ 04 | To be posted | Sun, 25 Oct, 23:59 UK |
+| OQ 04 | [Coding style](http://minecr.shinyapps.io/04-coding) | Sun, 25 Oct, 23:59 UK |
 | *Due next week* | | |
 | Project | [Proposal](https://www.introds.org/#project) | Tue, 27 Oct, 16:00 UK |
 | HW 02 | To be posted | Thur, 29 Oct, 16:00 UK |
