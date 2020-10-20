@@ -58,7 +58,7 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 | :open_book: | [IMS::Sec 2.3 - Effective data visualisation](https://openintro-ims.netlify.app/summarizing-visualizing-data.html#effective-data-visualization) | **Required** |
 | :open_book: | [IMS::Sec 1.3 - Sampling principles and strategies](https://openintro-ims.netlify.app/getting-started-with-data.html#sampling-principles-strategies) | **Required** |
 | :open_book: | [IMS::Sec 1.4 - Experiments](https://openintro-ims.netlify.app/getting-started-with-data.html#experiments) | **Required** |
-| :open_book: | [Tidyverse style guide::Part 1 - Analyses (Chp 1-5)](https://style.tidyverse.org/files.html) | Optional |
+| :open_book: | [Tidyverse style guide::Part 1 - Analyses (Chp 1-5)](https://style.tidyverse.org/) | Optional |
 
 
 ### Code-along
