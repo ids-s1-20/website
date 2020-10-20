@@ -61,7 +61,7 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-*To  be posted*
+This week in the code-along we'll focus on coding style.
 
 ### Interactive R tutorials
 
