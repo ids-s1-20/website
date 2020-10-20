@@ -45,7 +45,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | PE 01 | Peer evaluation 01 (emailed via TEAMMATES) | Wed, 21 Oct, 16:00 UK |
 | OQ 04 | To be posted | Sun, 25 Oct, 23:59 UK |
 | *Due next week* | | |
-| Project proposal | To be posted | Tue, 27 Oct, 16:00 UK |
+| Project | [Proposal](https://www.introds.org/#project) | Tue, 27 Oct, 16:00 UK |
 | HW 02 | To be posted | Thur, 29 Oct, 16:00 UK |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
