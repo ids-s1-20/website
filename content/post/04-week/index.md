@@ -59,7 +59,7 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 04 - R Markdown tips & asking questions*.
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 04 - R Markdown tips + asking questions*.
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|

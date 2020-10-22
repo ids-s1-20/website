@@ -63,7 +63,12 @@ If you're having difficulty accessing your HW or Lab repo, see troubleshooting a
 
 ### Code-along
 
-This week in the code-along we'll focus on coding style.
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 05 - Baby names + coding style*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/r_rz_2ahVSE) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+05+-+Code+along/1_x627eru5) |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/05-code-along/ukbabynames.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/05-code-along/ukbabynames.md) |
 
 ### Interactive R tutorials
 
