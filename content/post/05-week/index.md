@@ -46,7 +46,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | OQ 04 | [Coding style](http://minecr.shinyapps.io/04-coding) | Sun, 25 Oct, 23:59 UK |
 | *Due next week* | | |
 | Project | [Proposal](https://www.introds.org/#project) | Tue, 27 Oct, 16:00 UK |
-| HW 02 | To be posted | Thur, 29 Oct, 16:00 UK |
+| HW 02 | [AMajors + legos](https://ids-s1-20.github.io/homework/hw-02/hw-02-majors-legos.html) | Thur, 29 Oct, 16:00 UK |
 
 If you're having difficulty accessing your HW or Lab repo, see troubleshooting advice [here](/troubleshoot/github-org.html).
 
