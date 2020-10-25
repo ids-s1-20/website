@@ -50,7 +50,7 @@ Below are a list of data repositories that might be of interest to browse. You'r
 
 1. Proposal     - due Tuesday, 27 Oct, at 16:00
 1. Presentation - due Friday, 4 Dec, at 09:00 as pre-recorded video or live presentation in workshop
-1. Summary      - due Friday, 4 Dec, at 09:00
+1. Write-up     - due Friday, 4 Dec, at 09:00
 
 #### Proposal
 
@@ -87,18 +87,18 @@ Before you finalize your presentation, make sure your chunks are turned off with
 
 Presentation schedule: Presentations will take place during the last workshop of the semester. You can choose to do your presentation live or pre-record it. During your workshop you will watch presentations from other teams in your workshop and provide feedback in the form of peer evaluations. The presentation line-up will be generated randomly.
 
-#### Summary
+#### Write-up
 
 Along with your presentation slides, we want you to provide a brief summary of your project in the README of your repository.
 
-This summary should provide information on the dataset you're using, your research question(s), your methodology, and your findings. 
+This write-up, which you can also think of as an summary of your project, should provide information on the dataset you're using, your research question(s), your methodology, and your findings. 
 
 #### Repo organization
 
 The following folders and files in your project repository:
 
 * `presentation.Rmd` + `presentation.html`: Your presentation slides
-* `README.md`: Your summary
+* `README.md`: Your write-up
 * `/data/*`: Your dataset in csv or RDS format, in the `/data` folder.
 * `/proposal`: Your proposal from earlier in the semester
 
@@ -118,8 +118,9 @@ Style and format does count for this assignment, so please take the time to make
 
 Total                          | 100 pts
 -------------------------------|--------
+Proposal                       | 10 pts
 Presentation                   | 50 pts
-Summary                        | 25 pts
+Write-up                       | 15 pts
 Reproducibility and organization | 10 pts
 Team peer evaluation           | 10 pts
 Classmates' evaluation         | 5 pts
@@ -139,4 +140,4 @@ You will be asked to fill out a survey where you rate the contribution and teamw
 
 - There is no late submission / make up for the presentation. You must be in class on the day of the presentation to get credit for it *or* pre-record and submit your presentation by 9am in the morning of the presentations.
 
-- The late work policy for the summary is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
+- The late work policy for the write-up is 5% of the maximum obtainable mark per calendar day up to seven calendar days after the deadline. If you intend to submit work late for the project, you must notify the course organizer before the original deadline as well as as soon as the completed work is submitted on GitHub.
