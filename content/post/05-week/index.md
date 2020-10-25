@@ -21,7 +21,7 @@ title: 'Week 5 - Communicating data science results effectively'
 - Watch the [videos](/post/04-week/#videos)
 - Complete the [readings](/post/04-week/#readings)
 - Complete the [assignments](/post/04-week/#assignments)
-  - Especially work on the [project proposal]()
+  - Especially work on the [project proposal](/#project)
 
 ### Videos
 

@@ -18,42 +18,55 @@ title: 'Week 6 - Web scraping and programming '
 
 ### Tasks
 
+- Watch the [videos](/post/04-week/#videos)
+- Complete the [readings](/post/04-week/#readings)
+- Complete the [assignments](/post/04-week/#assignments)
+- (Optional) Complete the [Course feedback survey](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYQkmofaddEJLg-Rh784Tz0RUMUhLSFM2WFJUS0pKTUtVQk5RSzhVRFNIQi4u) by 5pm on Friday, 30th October (not graded)
+
 ### Videos
+
+You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
+
+| <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
+|:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
+| 01 | Keeping up with IDS: Week 5 | to be posted | to be posted  | to be posted |  | 
+| 02 | Scraping the web            | to be posted | to be posted  | to be posted |  | 
+| 03 | AE: IMDB + Webscraping      | to be posted | to be posted  | to be posted |  | 
+| 04 | Writing functions           | to be posted | to be posted  | to be posted |  | 
+| 05 | Iteration                   | to be posted | to be posted  | to be posted |  | 
+| 06 | AE: UoE Art Collection      | to be posted | to be posted  | to be posted |  | 
 
 ### Assignments
 
-### Readings
-
-### Code-along
-
-### Interactive R tutorials
-
-<!--
-
-### Schedule
-
-| <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
-|---:|---|---|
-| Lec 11 | [Harvesting data from the web](/slides/w6_d1-webscraping/w6_d1-webscraping.html) |
-| Lab 06 | [University of Edinburgh Art Collection](/labs/lab-06/lab-06-uoe-art.html) | **Due:** Fri, 25 Oct, 17:00 |
-| Lec 12 | [Functions and iteration](/slides/w6_d2-functions-iteration/w6_d2-functions-iteration.html) |
-| HW 06  | [Money in politics](/hw/hw-06/hw-06-money-in-politics.html) | **Due:** Wed, 30 Oct, 17:00 |
-| RT 05  | Interactive tutorial covering week’s material: [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) + [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) |
-| OQ 06  | [Scrape and iterate](https://minecr.shinyapps.io/06-scrape-iterate/) |  **Due:** Fri, 1 Nov, 17:00 |
+| <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
+|:---|:---|:---|
+| *Due this week* | | |
+| Project | [Proposal](https://www.introds.org/#project) | Tue, 27 Oct, 16:00 UK |
+| HW 02 | [Majors + legos](https://ids-s1-20.github.io/homework/hw-02/hw-02-majors-legos.html) | Thur, 29 Oct, 16:00 UK |
+| OQ 05 | [Scrape + iterate](http://minecr.shinyapps.io/05-scrape-iterate) | Sun, 1 Nov, 23:59 UK |
+| *Due next week* | | |
+| Lab 04 |  To be posted | Tue, 3 Nov, 16:00 UK |
+| Feedback | Peer evaluation 02 (emailed via TEAMMATES) | Wed, 4 Nov, 16:00 UK |
+| Project | *Proposal, take 2 (Optional)* | Fri, 6 Nov, 16:00 UK |
 
 ### Readings
 
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
+| <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
+|:---:|:---|:---:|
 | :page_facing_up: | [Selector Gadget](https://rvest.tidyverse.org/articles/selectorgadget.html) | **Required** |
-| :page_facing_up: | [Ethical challenges in online research: Public/private perceptions](https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720) | **Required** |
 | :open_book: | R4DS: [Chp 19, Functions](https://r4ds.had.co.nz/functions.html) | **Required** |
 | :open_book: | R4DS: [Chp 21, Iteration](https://r4ds.had.co.nz/iteration.html) - Only the following sections: 21.1, 21.2, 21.5.1, and 21.5.2 | **Optional** |
 
-### Miscellaneous
+### Code-along
 
-| <div style="width:60px"></div>  | <div style="width:420px"></div>  |  <div style="width:190px"></div> |
-|----:|---|---|
-| :radio_button:  | Peer evaluation 01 | **Due:** Fri, 25 Oct, 17:00 |
+*To be posted*
 
--->
+### Interactive R tutorials
+
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Money in US Politics](https://minecr.shinyapps.io/dsbox-05-moneyinpolitics/) | Related to HW 03 |
+| [Write functions](https://rstudio.cloud/learn/primers/6) (Function basics, How to write a function, and Arguments) | *Optional* |
+| [Iterate](https://rstudio.cloud/learn/primers/5) (Introduction to iteration, Map, and Map shortcuts) | *Optional* |

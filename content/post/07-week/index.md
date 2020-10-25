@@ -30,6 +30,9 @@ title: 'Week 7 - Data science ethics'
 
 <!--
 
+| :page_facing_up: | [Ethical challenges in online research: Public/private perceptions](https://journals.sagepub.com/doi/pdf/10.1177/1747016116650720) | **Optional** |
+
+
 ### Schedule
 
 | <div style="width:60px"></div>  | <div style="width:420px"></div> |  <div style="width:190px"></div>   |
