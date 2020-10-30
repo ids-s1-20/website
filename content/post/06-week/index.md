@@ -47,6 +47,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | HW 02 | [Majors + legos](https://ids-s1-20.github.io/homework/hw-02/hw-02-majors-legos.html) | Thur, 29 Oct, 16:00 UK |
 | OQ 05 | [Scrape + iterate](http://minecr.shinyapps.io/05-scrape-iterate) | Sun, 1 Nov, 23:59 UK |
 | *Due next week* | | |
+| Lab 04 | [UoE Art Collection](https://ids-s1-20.github.io/labs/lab-04/lab-04-uoe-art.html) | Tue, 3 Nov, 16:00 UK |
 | Lab 04 |  To be posted | Tue, 3 Nov, 16:00 UK |
 | Feedback | Peer evaluation 02 (emailed via TEAMMATES) | Wed, 4 Nov, 16:00 UK |
 | Project | *Proposal, take 2 (Optional)* | Fri, 6 Nov, 16:00 UK |
