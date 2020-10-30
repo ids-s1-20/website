@@ -61,7 +61,12 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 ### Code-along
 
-*To be posted*
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 06 - First Minister's COVID-19 Speeches*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/ioY_CHDZxi4) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+06+-+Code+along/1_kaonzufc) |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/06-code-along/05-analyse.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/06-code-along/05-analyse.md) [**`Scripts`**](https://github.com/ids-s1-20/code-along/blob/master/06-code-along/) |
 
 ### Interactive R tutorials
 
