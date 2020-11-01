@@ -27,19 +27,21 @@ title: 'Week 7 - Data science ethics'
 
 You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
 
-Some of the videos for this week are by "guest lecturers". The total length of the videos add up to more than the usual amount, but they are highly important without being highly technical. You're welcomed to skip the Q&A parts of these videos.
+Some of the videos for this week are by "guest lecturers", they're labeled with a :microphone:. The total length of the videos add up to more than the usual amount, so I recommend watching as much as of them as you're interested -- they cover highly important topics without being highly technical. You're welcomed to skip the Q&A parts of these videos.
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
 | 01 | Keeping up with IDS: Week 7 | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d01-kuwids/w7-d01-kuwids.pdf) |  | 
 | 02 | Misrepresentation | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d02-misrepresentation/w7-d02-misrepresentation.html) |  | 
-| 03 | Alberto Cairo - How charts lie | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/Low28hx4wyk) |  |  | 57:23 | 
-| 04 | Data privacy | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d03-privacy/w7-d03-privacy.html) |  | 
-| 05 | The Guardian - Cambridge Analytica whistleblower | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/FXdYSQ6nu-M) |  |  | 13:03 | 
-| 06 | Algorithmic bias | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d04-algorithmic-bias/w7-d04-algorithmic-bias.html) |  | 
-| 07 | Joy Buolamwini - How I'm fighting bias in algorithms | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/UG_X_7g63rY) |  |  | 8:44 | 
-| 08 | Cathy O'Neil - Weapons of Math Destruction (up to Q&A) | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/TQHs8SA1qpk) |  |  | 33:39 | 
-| 09 | Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/tNi_U1Bb1S0) |  |  | 33:22 | 
+| :microphone: | *Alberto Cairo - How charts lie* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/Low28hx4wyk) |  |  | 57:23 | 
+| 03 | Data privacy | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d03-privacy/w7-d03-privacy.html) |  | 
+| :microphone: | *The Guardian - Cambridge Analytica whistleblower* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/FXdYSQ6nu-M) |  |  | 13:03 | 
+| 04 | Algorithmic bias | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-07/w7-d04-algorithmic-bias/w7-d04-algorithmic-bias.html) |  | 
+| :microphone: | *Joy Buolamwini - How I'm fighting bias in algorithms* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/UG_X_7g63rY) |  |  | 8:44 | 
+| :microphone: | *Cathy O'Neil - Weapons of Math Destruction* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/TQHs8SA1qpk) |  |  | 33:39 | 
+| :microphone: | *Safiya Umoja Noble - Imagining a Future Free from the Algorithms of Oppression* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/tNi_U1Bb1S0) |  |  | 33:22 | 
+| :microphone: | *Kristian Lum - What's An Algorithm Got To Do With It* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/5zxDwA99soA) |  |  | 12:12 | 
+
 
 ### Assignments
 
