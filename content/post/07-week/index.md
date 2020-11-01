@@ -18,7 +18,14 @@ title: 'Week 7 - Data science ethics'
 
 ### Tasks
 
+- Watch the [videos](/post/07-week/#videos)
+- Complete the [assignments](/post/07-week/#assignments)
+- Complete the [readings](/post/07-week/#readings)
+- (Optional) Submit your project re-proposal by 16:00 on Friday, 6 November
+
 ### Videos
+
+You have two options for watching the course videos, on YouTube or on MediaHopper. You can also find a playlists for all course videos on YouTube [here](https://www.youtube.com/playlist?list=PLNUVZZ6hfXX1tyUykCWShOKZdIB0TIhtM) and on MediaHopper [here](https://media.ed.ac.uk/playlist/dedicated/183821961/1_r35z2f16/).
 
 ### Assignments
 
