@@ -51,7 +51,7 @@ Some of the videos for this week are by "guest lecturers", they're labeled with 
 | Lab 04 | [UoE Art Collection](https://ids-s1-20.github.io/labs/lab-04/lab-04-uoe-art.html) | Tue, 3 Nov, 16:00 UK |
 | Feedback | Peer evaluation 02 (emailed via TEAMMATES) | Wed, 4 Nov, 16:00 UK |
 | Project | *Proposal, take 2 (Optional)* | Fri, 6 Nov, 16:00 UK |
-| OQ 06 | To be posted | Sun, 8 Nov, 23:59 UK |
+| OQ 06 | [Review](http://minecr.shinyapps.io/06-review) | Sun, 8 Nov, 23:59 UK |
 | *Due next week* | | |
 | Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz) | Tue, 10 Nov, 16:00 UK |
 | HW 03  | To be posted | Thur, 12 Nov, 16:00 UK |
