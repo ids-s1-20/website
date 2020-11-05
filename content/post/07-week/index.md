@@ -66,7 +66,11 @@ Some of the videos for this week are by "guest lecturers", they're labeled with 
 
 ### Code-along
 
-*To be posted.*
+This week we reviewed data science project workflows.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/ZQke97ewn8Q) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+07+-+05+-+Code+along/1_kofaciz7) |
 
 ### Interactive R tutorials
 
