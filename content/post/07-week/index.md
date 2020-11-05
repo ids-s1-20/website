@@ -53,7 +53,7 @@ Some of the videos for this week are by "guest lecturers", they're labeled with 
 | Project | *Proposal, take 2 (Optional)* | Fri, 6 Nov, 16:00 UK |
 | OQ 06 | To be posted | Sun, 8 Nov, 23:59 UK |
 | *Due next week* | | |
-| Lab 05 | To be posted | Tue, 10 Nov, 16:00 UK |
+| Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz) | Tue, 10 Nov, 16:00 UK |
 | HW 03  | To be posted | Thur, 12 Nov, 16:00 UK |
 
 ### Readings
