@@ -54,7 +54,7 @@ Some of the videos for this week are by "guest lecturers", they're labeled with 
 | OQ 06 | [Review](http://minecr.shinyapps.io/06-review) | Sun, 8 Nov, 23:59 UK |
 | *Due next week* | | |
 | Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz) | Tue, 10 Nov, 16:00 UK |
-| HW 03  | To be posted | Thur, 12 Nov, 16:00 UK |
+| HW 03  | [Money in politics](https://ids-s1-20.github.io/homework/hw-03/hw-03-money-in-politics.html) | Thur, 12 Nov, 16:00 UK |
 
 ### Readings
 
