@@ -28,9 +28,8 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 | <div style="width:50px;text-align:center">No.</div> | <div style="width:250px;text-align:left">Title</div> | <div style="width:80px;text-align:center">YouTube</div> | <div style="width:80px;text-align:center">MediaHopper</div> |  <div style="width:80px;text-align:center">Slides</div> | <div style="width:80px;text-align:center">Length</div> |
 |:---:|:---------------------|:-------:|:-----------:|:--------:|:------:|
-| 01 | Keeping up with IDS: Week 8 | to be posted | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-08/w8-d01-kuwids/w8-d01-kuwids.pdf) |  | 
-| :microphone: | *Writing Advice from Matt Stone & Trey Parker* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/vGUNqq3jVLg) |  |  |  | 
-
+| 01 | Keeping up with IDS: Week 8 | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/nZiIKU_i9t0) | to be posted | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-08/w8-d01-kuwids/w8-d01-kuwids.pdf) | 9:54 | 
+| :microphone: | *Writing Advice from Matt Stone & Trey Parker* | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/vGUNqq3jVLg) |  |  | 2:14 | 
 
 ### Assignments
 
