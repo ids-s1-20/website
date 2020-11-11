@@ -41,11 +41,11 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | <div style="width:120px;text-align:left">Assignment</div> | <div style="width:340px;text-align:left">Title</div> | <div style="width:200px;text-align:left">Due</div> |
 |:---|:---|:---|
 | *Due this week* | | |
-| Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz) | Tue, 10 Nov, 16:00 UK |
+| Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz.html) | Tue, 10 Nov, 16:00 UK |
 | HW 03  | [Money in politics](https://ids-s1-20.github.io/homework/hw-03/hw-03-money-in-politics.html) | Thur, 12 Nov, 16:00 UK |
 | OQ 07 | To be posted | Sun, 15 Nov, 23:59 UK |
 | *Due next week* | | |
-| Lab 06 | To be posted | Tue, 17 Nov, 16:00 UK |
+| Lab 06 | [Course evaluations](https://ids-s1-20.github.io/labs/lab-06/lab-06-modelling-course-evals.html) | Tue, 17 Nov, 16:00 UK |
 
 ### Readings
 
