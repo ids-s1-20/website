@@ -60,4 +60,8 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 ### Interactive R tutorials
 
-*To be posted*
+The following are interactive R tutorials, designed to give you more practice with R. These are optional, but they will show up in your next homework assignment, so you should gain familiarity with it. If you're struggling with any of the topics covered this week, we strongly recommend you work through the interactive tutorials.
+
+|  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
+|:---|:---|
+| [Money in US Politics](https://minecr.shinyapps.io/dsbox-06-dcbikeshare/) | Related to HW 04 |
