@@ -43,7 +43,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | *Due this week* | | |
 | Lab 05 | [Conveying the right message through visualisation](https://ids-s1-20.github.io/labs/lab-05/lab-05-better-viz.html) | Tue, 10 Nov, 16:00 UK |
 | HW 03  | [Money in politics](https://ids-s1-20.github.io/homework/hw-03/hw-03-money-in-politics.html) | Thur, 12 Nov, 16:00 UK |
-| OQ 07 | To be posted | Sun, 15 Nov, 23:59 UK |
+| OQ 07 | [Simple linear regression](http://minecr.shinyapps.io/07-modeling-simple) | Sun, 15 Nov, 23:59 UK |
 | *Due next week* | | |
 | Lab 06 | [Course evaluations](https://ids-s1-20.github.io/labs/lab-06/lab-06-modelling-course-evals.html) | Tue, 17 Nov, 16:00 UK |
 
@@ -56,7 +56,12 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 ### Code-along
 
-*To be posted*
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 08 - Lending club loans*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>]() |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/08-code-along/loans.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/08-code-along/loans.md) |
 
 ### Interactive R tutorials
 
@@ -64,4 +69,4 @@ The following are interactive R tutorials, designed to give you more practice wi
 
 |  <div style="width:480px"></div>  |  <div style="width:200px"></div>  |
 |:---|:---|
-| [Money in US Politics](https://minecr.shinyapps.io/dsbox-06-dcbikeshare/) | Related to HW 04 |
+| [Bike Rentals in D.C.](https://minecr.shinyapps.io/dsbox-06-dcbikeshare/) | Related to HW 04 |
