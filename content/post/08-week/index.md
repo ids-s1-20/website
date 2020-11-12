@@ -60,7 +60,7 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 
 | <div style="width:200px"></div>  | <div style="width:480px"></div>  |
 |:---|:---|
-| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>]() |
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/AsAl7b3gRLk) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+08+-+Code-along/1_pg8z0ksv) |
 | Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/08-code-along/loans.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/08-code-along/loans.md) |
 
 ### Interactive R tutorials
