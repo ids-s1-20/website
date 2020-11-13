@@ -26,6 +26,8 @@ title: 'Week 9 - Model selection and classification'
 
 ### Code-along
 
+*To be posted.*
+
 ### Interactive R tutorials
 
 <!--
