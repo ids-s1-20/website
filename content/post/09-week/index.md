@@ -11,7 +11,7 @@ image:
   preview_only: true
 lastmod: "2020-11-16T00:00:00Z"
 projects: []
-subtitle: 'Logistic regression for predicting categorical data and model building :mag:'
+subtitle: 'Logistic regression for predicting categorical data and model building :construction:'
 summary: Logistic regression for predicting categorical data and model building.
 title: 'Week 9 - Classification and model building'
 ---
