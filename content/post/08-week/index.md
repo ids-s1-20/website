@@ -16,6 +16,7 @@ summary: Linear models for predicting numerical data from single and multiple va
 title: 'Week 8 - Modelling data'
 ---
 
+
 ### Tasks
 
 - Watch the [videos](/post/08-week/#videos)

@@ -16,7 +16,6 @@ summary: Logistic regression for predicting categorical data and model building.
 title: 'Week 9 - Classification and model building'
 ---
 
-
 ### Tasks
 
 - Watch the [videos](/post/09-week/#videos)
