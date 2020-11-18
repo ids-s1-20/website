@@ -49,7 +49,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 | <div style="width:50px"></div>  | <div style="width:420px"></div>  |  <div style="width:200px"></div> |
 |:---:|:---|:---:|
-| :open_book: | IMS: Logistic regression (to be posted) | **Required** |
+| :open_book: | IMS: [Chp 4.5 - Logistic regression](https://openintro-ims.netlify.app/multi-logistic-models.html#logistic-regression) | **Required** |
 | :page_facing_up: | tidymodels: [Build a model](https://www.tidymodels.org/start/models/) | Optional |
 | :page_facing_up: | tidymodels: [Preprocess your data with recipes](https://www.tidymodels.org/start/recipes/) | Optional |
 
