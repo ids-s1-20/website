@@ -39,7 +39,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 |:---|:---|:---|
 | *Due this week* | | |
 | Lab 06 | [Course evaluations](https://ids-s1-20.github.io/labs/lab-06/lab-06-modelling-course-evals.html) | Tue, 17 Nov, 16:00 UK |
-| OQ 08 | To be posted | Sun, 22 Nov, 23:59 UK |
+| OQ 08 | [Multiple regression](https://minecr.shinyapps.io/08-modeling-multiple/) | Sun, 22 Nov, 23:59 UK |
 | *Due next week* | | |
 | Lab 07 | [Work on projects](https://ids-s1-20.github.io/labs/lab-07/lab-07-work-on-projects) | Tue, 24 Nov, 16:00 UK |
 | Feedback | Peer evaluation 03 (emailed via TEAMMATES) | Wed, 25 Nov, 16:00 UK |
