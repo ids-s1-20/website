@@ -55,7 +55,13 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 ### Code-along
 
-*To be posted*
+You can find starter code for this session on [RStudio Cloud](https://rstudio.cloud/), in the project titled *Code Along 09 - Hotel bookings*.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/iV0bIRBKe2U) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+09+-+Code+along/1_uc4mdx7d) |
+| Session artifacts | [**`.Rmd`**](https://github.com/ids-s1-20/code-along/blob/master/09-code-along/hotels.Rmd) &nbsp;&nbsp;&nbsp; [**`.md`**](https://github.com/ids-s1-20/code-along/blob/master/09-code-along/hotels.md) |
+
 
 ### Interactive R tutorials
 
