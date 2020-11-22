@@ -74,8 +74,7 @@ question(s). (You can update these later as you work on your project.)
 your hypothesized answer?
 
 Each section should be no more than 1 page (excluding figures). You can check a 
-print preview to confirm length. You will turn in your proposal as your HW 05 
-in the course.
+print preview to confirm length. 
 
 #### Presentation
 
