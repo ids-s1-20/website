@@ -36,7 +36,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | 3 | AE - The Office, Part 1 | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/qsUYstdN4LQ) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+10+-+03+-+AE+-+The+Office%2C+Part+1/1_ru9aczu5)  | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/application-exercises/blob/main/ae-09-feat-eng-cv/theoffice.md) | 30:45 | 
 | 4 | AE - The Office, Part 2 | https://media.ed.ac.uk/media/IDS+-+Week+10+-+04+-+AE+-+The+Office%2C+Part+2/1_dwfr8cvr | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+10+-+04+-+AE+-+The+Office%2C+Part+2/1_dwfr8cvr)  | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://github.com/ids-s1-20/application-exercises/blob/main/ae-09-feat-eng-cv/theoffice.md) | 19:53 | 
 
-*more to be posted*
+*one more to be posted*
 
 ### Assignments
 
