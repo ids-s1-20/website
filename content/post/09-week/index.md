@@ -65,4 +65,4 @@ You can find starter code for this session on [RStudio Cloud](https://rstudio.cl
 
 ### Interactive R tutorials
 
-*To be posted*
+No interactive R tutorials this week. Use the time to work on projects!
