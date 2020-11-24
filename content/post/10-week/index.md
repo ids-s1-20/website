@@ -45,7 +45,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | *Due this week* | | |
 | Lab 07 | [Work on projects](https://ids-s1-20.github.io/labs/lab-07/lab-07-work-on-projects) | Tue, 24 Nov, 16:00 UK |
 | Feedback | Peer evaluation 03 (emailed via TEAMMATES) | Wed, 25 Nov, 16:00 UK |
-| HW 04 | [Potpourri](https://ids-s1-20.github.io/homework/hw-04/hw-04-potpourri.html) | Tue, 26 Nov, 16:00 UK |
+| HW 04 | [Potpourri](https://ids-s1-20.github.io/homework/hw-04/hw-04-potpourri.html) | Thur, 26 Nov, 16:00 UK |
 | OQ 09 | *to be posted*  | Sun, 29 Nov, 23:59 UK |
 | *Due next week* | | |
 | Lab 08 | *to be posted* | Tue, 1 Dec, 16:00 UK |
