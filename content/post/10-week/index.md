@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-23T00:00:00Z"
 projects: []
-subtitle: 'Peforming model validation and prediction :crystal_ball:'
-summary: Peforming model validation and prediction.
-title: 'Week 10 - Prediction and model validation'
+subtitle: 'Model validation and uncertainty quantification :white_check_mark:'
+summary: Evaluating models with cross validation and uncertainty quantification with bootstrap confidence intervals.
+title: 'Week 10 - Model validation and uncertainty quantification'
 ---
 
 ### Tasks
