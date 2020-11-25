@@ -11,9 +11,9 @@ image:
   preview_only: true
 lastmod: "2020-11-30T00:00:00Z"
 projects: []
-subtitle: 'Quantifying uncertainty via bootstrapping and looking beyond IDS :eyes:'
-summary: Quantifying uncertainty via bootstrapping and looking beyond IDS.
-title: 'Week 11 - Quantifying uncertainty and looking beyond'
+subtitle: 'Looking beyond IDS :eyes:'
+summary: Topics requested by you!
+title: 'Week 11 - Looking beyond IDS'
 ---
 
 ### Tasks
