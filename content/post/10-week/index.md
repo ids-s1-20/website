@@ -60,7 +60,12 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 
 ### Code-along
 
-*to be posted*
+This week we discussed making slides with xaringan and tips for presentations.
+
+| <div style="width:200px"></div>  | <div style="width:480px"></div>  |
+|:---|:---|
+| Recording | [<span style="color: red;"><i class="fab fa-youtube fa-lg"></i></span>](https://youtu.be/pzsHSMoqQvw) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<span style="color: #0A1E3F;"><i class="fas fa-file-video fa-lg"></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+10+-+Code+along/1_ti9g30zp) |
+| Session artifacts | [Designing a slide deck](https://rstd.io/design-deck) |
 
 ### Interactive R tutorials
 
