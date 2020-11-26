@@ -48,7 +48,7 @@ You have two options for watching the course videos, on YouTube or on MediaHoppe
 | HW 04 | [Potpourri](https://ids-s1-20.github.io/homework/hw-04/hw-04-potpourri.html) | Thur, 26 Nov, 16:00 UK |
 | OQ 09 | [Modeling overview](https://minecr.shinyapps.io/09-modeling-overview/)  | Sun, 29 Nov, 23:59 UK |
 | *Due next week* | | |
-| Lab 08 | *to be posted* | Tue, 1 Dec, 16:00 UK |
+| Lab 08 | [Work on projects](https://ids-s1-20.github.io/labs/lab-08/lab-08-work-on-projects) | No interim deadline |
 | Project | [Project](/#project)   | Fri, 4 Dec, 10:00 UK |
 
 ### Readings
