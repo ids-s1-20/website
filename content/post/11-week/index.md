@@ -36,6 +36,7 @@ This week's videos have short slide decks. All of the code we go through in the 
 | 3 | Comparing texts | [<span style='color: red;'><i class='fab fa-youtube fa-lg'></i></span>](https://youtu.be/Q79feeFbsxM) | [<span style='color: #0A1E3F;'><i class='fas fa-file-video fa-lg'></i></span>](https://media.ed.ac.uk/media/IDS+-+Week+11+-+03+-+Comparing+texts/1_345gr2x6)  | [<span style='color: #4b5357;'><i class='fas fa-desktop fa-lg'></i></span>](https://ids-s1-20.github.io/slides/week-11/w11-d03-comparing-texts/w11-d03-comparing-texts.html) |  | 
 | 4 | Interactive web apps | to be posted | to be posted | to be posted |  | 
 | 5 | Machine learning | to be posted | to be posted | to be posted |  |
+| 6 | Q&A and wrap up | to be posted | to be posted | to be posted |  | 
 
 ### Assignments
 
