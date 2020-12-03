@@ -45,8 +45,8 @@ This week's videos have short slide decks. All of the code we go through in the 
 | *Due this week* | | |
 | Project | [Project](/#project)   | Fri, 4 Dec, 10:00 UK |
 | Feedback | Peer evaluation 04 (emailed via TEAMMATES) | Sat, 5 Dec, 16:00 UK |
-| OQ 10 | *to be posted* | Sun, 6 Dec, 23:59 UK |
 | *Due next week* | | |
+| OQ 10 | *to be posted* | Thur, 10 Dec, 16:00 UK |
 | HW 05 | *to be posted* | Thur, 10 Dec, 16:00 UK |
 
 ### Readings
