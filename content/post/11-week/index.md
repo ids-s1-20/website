@@ -47,7 +47,7 @@ This week's videos have short slide decks. All of the code we go through in the 
 | Feedback | Peer evaluation 04 (emailed via TEAMMATES) | Sat, 5 Dec, 16:00 UK |
 | *Due next week* | | |
 | OQ 10 | [Looking beyond](https://minecr.shinyapps.io/10-looking-beyond/) | Thur, 10 Dec, 16:00 UK |
-| HW 05 | *to be posted* | Thur, 10 Dec, 16:00 UK |
+| HW 05 | [Model and review](https://ids-s1-20.github.io/homework/hw-05/hw-05-model-review.html) | Thur, 10 Dec, 16:00 UK |
 
 ### Readings
 
