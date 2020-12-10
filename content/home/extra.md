@@ -9,7 +9,7 @@ title = "Extra credit"
 
 There will be four extra credit opportunities in this course.
 
-The first two are related to the Virtual Exchange we're doing with University of Florida. More on that soon...
+The first two are related to the Virtual Exchange we're doing with University of Florida. More info on participation will be communicated via email.
 
 The third one is reporting typos / errata for the course. You can do so by filling out [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYRiRHjHRDWhOuLE_6JyNA0dUNlYwSEtZOU40TVdZRUU0WjVRSjlOQ1lWOS4u). You can submit as many as you like.
 
