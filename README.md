@@ -8,3 +8,30 @@ The course highlights tools and techniques from statistics, mathematics, compute
 
 As part of each assignment, assessment, the semester long project, and case study, students will use data analysis skills to solve problems, and present their process and their results as fully reproducible written reports as well as oral presentations.
 
+## Organization of course materials
+
+Source code for
+
+- [course website](https://introds-2020.netlify.app/): this repo.
+- slides: https://github.com/ids-s1-20/slides
+- homework assignments: https://github.com/ids-s1-20/homework
+- labs: https://github.com/ids-s1-20/labs
+- code alongs: https://github.com/ids-s1-20/code-along
+- application exercises: https://github.com/ids-s1-20/application-exercises
+
+Outputs of all these components are linked from the course website.
+
+## The course website
+
+The course website is created with [blogdown](https://bookdown.org/yihui/blogdown/), with Hugo Academic theme.
+Course materials are organized by week and the weekly pages are in [content/post/](/content/post/).
+
+## Reusing materials
+
+Majority of the materials in this course are also available at [Data Science in a Box](https://datasciencebox.org/).
+You are welcomed to reuse materials directly from here but you might prefer to start with the versions in [Data Science in a Box](https://datasciencebox.org/) since course specific content (e.g, due dates, submission instructions, etc.) have been removed for materials served there.
+
+## Attribution
+
+If reusing materials, please attribute to [Data Science in a Box](https://datasciencebox.org/), created by Dr. Mine Çetinkaya-Rundel.
+And please review the [license](LICENSE.md) before reusing.
